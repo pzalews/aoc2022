@@ -15,20 +15,16 @@ def compute(s: str) -> int:
     lines = s.splitlines()
     count = 0
     for line in lines:
-    # TODO: implement solution here!
-        a1,a2=line.split(",")
-        a1s,a1e=a1.split("-")
-        a2s,a2e=a2.split("-")
-        if int(a1s) in range(int(a2s),int(a2e)+1):
-            count+=1 
-        elif int(a1e) in range(int(a2s),int(a2e)+1):
-            count+=1
-        elif int(a1s)<int(a2s) and int(a1e)>int(a2e):
-            count+=1
-
-        # print(f"{a1s} and {range(int(a2s),int(a2e))}: {count}")
-        # print(f"{a1e} and {range(int(a2s),int(a2e))}: {count}")
-        
+        # TODO: implement solution here!
+        a1, a2 = line.split(",")
+        a1s, a1e = a1.split("-")
+        a2s, a2e = a2.split("-")
+        if int(a1s) in range(int(a2s), int(a2e)+1):
+            count += 1
+        elif int(a1e) in range(int(a2s), int(a2e)+1):
+            count += 1
+        elif int(a1s) < int(a2s) and int(a1e) > int(a2e):
+            count += 1
     return count
 
 
@@ -66,4 +62,3 @@ def main() -> int:
 
 if __name__ == '__main__':
     raise SystemExit(main())
-

@@ -11,53 +11,54 @@ import support
 INPUT_TXT = os.path.join(os.path.dirname(__file__), 'input.txt')
 
 
-#A for Rock, B for Paper, and C for Scissors
+# A for Rock, B for Paper, and C for Scissors
 # X for Rock, Y for Paper, and Z for Scissors
-#X means you need to lose, Y means you need to end the round in a draw, and Z means you need to win.
+# X means you need to lose,
+# Y means you need to end the round in a draw, and Z means you need to win.
 
-RESULTS={
-    "A":{
-        "X" : 3,
-        "Y" : 6,
-        "Z" : 0
+RESULTS = {
+    "A": {
+        "X": 3,
+        "Y": 6,
+        "Z": 0
     },
     "B": {
-        "X" : 0,
-        "Y" : 3,
-        "Z" : 6
+        "X": 0,
+        "Y": 3,
+        "Z": 6
     },
-    "C" : {
-        "X" : 6,
-        "Y" : 0,
-        "Z" : 3
+    "C": {
+        "X": 6,
+        "Y": 0,
+        "Z": 3
     }
 }
 
 ADDITIONAL_POINTS = {
-    "X" : 1,
-    "Y" : 2,
-    "Z" : 3
+    "X": 1,
+    "Y": 2,
+    "Z": 3
 }
 
 
-YOU_MOVE={
-    "A" : {
-        "X" : "Z",
-        "Y" : "X",
-        "Z" : "Y"
-},
+YOU_MOVE = {
+    "A": {
+        "X": "Z",
+        "Y": "X",
+        "Z": "Y"
+    },
     "B": {
-        "X" : "X",
-        "Y" : "Y",
-        "Z" : "Z"
-},
-    "C" : {
-        "X" : "Y",
-        "Y" : "Z",
-        "Z" : "X"
+        "X": "X",
+        "Y": "Y",
+        "Z": "Z"
+    },
+    "C": {
+        "X": "Y",
+        "Y": "Z",
+        "Z": "X"
+    }
 }
-}
-        
+
 
 def compute(s: str) -> int:
 
@@ -65,9 +66,9 @@ def compute(s: str) -> int:
     points = 0
     for line in lines:
         print(line[0]+"x"+line[2])
-        move=YOU_MOVE[line[0]][line[2]]
+        move = YOU_MOVE[line[0]][line[2]]
         print(RESULTS[line[0]][move]+ADDITIONAL_POINTS[move])
-        points+=RESULTS[line[0]][move]+ADDITIONAL_POINTS[move]
+        points += RESULTS[line[0]][move]+ADDITIONAL_POINTS[move]
     return points
 
 
@@ -102,4 +103,3 @@ def main() -> int:
 
 if __name__ == '__main__':
     raise SystemExit(main())
-

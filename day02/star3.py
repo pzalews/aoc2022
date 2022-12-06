@@ -12,14 +12,16 @@ import support
 INPUT_TXT = os.path.join(os.path.dirname(__file__), 'input.txt')
 
 
-#A for Rock, B for Paper, and C for Scissors
+# A for Rock, B for Paper, and C for Scissors
 # X for Rock, Y for Paper, and Z for Scissors
-#X means you need to lose, Y means you need to end the round in a draw, and Z means you need to win.
+# X means you need to lose, Y means you need to end the round in a draw, and
+# Z means you need to win.
 
 class Action(Enum):
     Rock = 1
     Paper = 2
     Scissors = 3
+
 
 winners = {
     Action.Rock: [Action.Scissors],
@@ -36,34 +38,37 @@ DECODE = {
     "Z": Action.Scissors
 }
 
-def result(opponent,you) -> int:
+
+def result(opponent, you) -> int:
     if opponent == you:
-        return 3 # draw
+        return 3  # draw
     if opponent in winners[you]:
         return 6
     return 0
 
-def decode(letter) -> Action:
-    return DECODE[letter]    
 
-YOU_MOVE={
-    "A" : {
-        "X" : "Z",
-        "Y" : "X",
-        "Z" : "Y"
-},
+def decode(letter) -> Action:
+    return DECODE[letter]
+
+
+YOU_MOVE = {
+    "A": {
+        "X": "Z",
+        "Y": "X",
+        "Z": "Y"
+    },
     "B": {
-        "X" : "X",
-        "Y" : "Y",
-        "Z" : "Z"
-},
-    "C" : {
-        "X" : "Y",
-        "Y" : "Z",
-        "Z" : "X"
+        "X": "X",
+        "Y": "Y",
+        "Z": "Z"
+    },
+    "C": {
+        "X": "Y",
+        "Y": "Z",
+        "Z": "X"
+    }
 }
-}
-        
+
 
 def compute(s: str) -> int:
 
@@ -71,11 +76,11 @@ def compute(s: str) -> int:
     points = 0
     for line in lines:
         print(line[0]+"x"+line[2])
-        move=YOU_MOVE[line[0]][line[2]]
+        move = YOU_MOVE[line[0]][line[2]]
         opponent = decode(line[0])
         you = decode(move)
-        print(result(opponent,you)+you.value)
-        points+=result(opponent,you)+you.value
+        print(result(opponent, you)+you.value)
+        points += result(opponent, you)+you.value
     return points
 
 
@@ -110,4 +115,3 @@ def main() -> int:
 
 if __name__ == '__main__':
     raise SystemExit(main())
-

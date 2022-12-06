@@ -10,30 +10,32 @@ import support
 
 INPUT_TXT = os.path.join(os.path.dirname(__file__), 'input.txt')
 
-def find_common(tab1,tab2)->str:
+
+def find_common(tab1, tab2) -> str:
     return list(set(tab1).intersection(tab2))[0]
 
 
-def decoding(s : str) ->int:
+def decoding(s: str) -> int:
     if s.islower():
         return ord(s)-96
     else:
         return ord(s)-38
 
+
 def compute(s: str) -> int:
     lines = s.splitlines()
-    racksack=[]
-    misstook=[]
+    racksack = []
+    misstook = []
     for line in lines:
-        compartment1=line[0:int(len(line)/2)]
-        compartment2=line[int(len(line)/2):len(line)]
-        racksack.append([compartment1,compartment2])
-        misstook.append(find_common(compartment1,compartment2))
+        compartment1 = line[0:int(len(line)/2)]
+        compartment2 = line[int(len(line)/2):len(line)]
+        racksack.append([compartment1, compartment2])
+        misstook.append(find_common(compartment1, compartment2))
 
-    suma=0
+    suma = 0
     for item in misstook:
         print(f"{item}={decoding(item)}")
-        suma+=decoding(item)
+        suma += decoding(item)
     return suma
 
 
@@ -71,4 +73,3 @@ def main() -> int:
 
 if __name__ == '__main__':
     raise SystemExit(main())
-

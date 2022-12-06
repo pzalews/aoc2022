@@ -13,21 +13,18 @@ INPUT_TXT = os.path.join(os.path.dirname(__file__), 'input.txt')
 
 def compute(s: str) -> int:
     lines = s.splitlines()
-    sum=0
-    max=0
+    sum = 0
+    max = 0
     for line in lines:
         if str(line).isnumeric():
-            calories= int(line)
-            sum+=calories
-        if len(line)==0:
-            if max<sum:
-                max=sum
-            sum=0
+            calories = int(line)
+            sum += calories
+        if len(line) == 0:
+            if max < sum:
+                max = sum
+            sum = 0
 
-        
     return max
-
-
 
 
 INPUT_S = '''\
@@ -46,7 +43,7 @@ INPUT_S = '''\
 
 10000
 '''
-EXPECTED = 24000 
+EXPECTED = 24000
 
 
 @pytest.mark.parametrize(
@@ -72,4 +69,3 @@ def main() -> int:
 
 if __name__ == '__main__':
     raise SystemExit(main())
-

@@ -13,22 +13,20 @@ INPUT_TXT = os.path.join(os.path.dirname(__file__), 'input.txt')
 
 def compute(s: str) -> int:
     lines = s.splitlines()
-    sum=[0]
-    count = 0 
+    sum = [0]
+    count = 0
     for line in lines:
         if str(line).isnumeric():
-            calories= int(line)
-            sum[count]+=calories
-        if len(line)==0:
-            count+=1
-            sum.insert(count,0)
+            calories = int(line)
+            sum[count] += calories
+        if len(line) == 0:
+            count += 1
+            sum.insert(count, 0)
 
     sum.sort(reverse=True)
     print(sum[0:3])
-    max=sum[0]+sum[1]+sum[2]
+    max = sum[0]+sum[1]+sum[2]
     return max
-
-
 
 
 INPUT_S = '''\
@@ -73,4 +71,3 @@ def main() -> int:
 
 if __name__ == '__main__':
     raise SystemExit(main())
-

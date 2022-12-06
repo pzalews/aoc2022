@@ -15,37 +15,37 @@ def compute(s: str) -> str:
     lines = s.splitlines()
     stacks = []
     for line in lines:
-       #stacks
+        # stacks
         if line[1] != "1":
-            containers = [ line[x] for x in range(1,len(line),4)]
+            containers = [line[x] for x in range(1, len(line), 4)]
             if len(stacks) < len(containers):
-                for a in range(0,len(containers)):
+                for a in range(0, len(containers)):
                     stacks.append([])
-            #inserting containers
-            for a in range(0,len(containers)):
+            # inserting containers
+            for a in range(0, len(containers)):
                 if containers[a] != " ":
                     stacks[a].append(containers[a])
         else:
             break
 
-    #odwrocenie kontenerów
-    for a in range(0,len(stacks)):
+    # odwrocenie kontenerów
+    for a in range(0, len(stacks)):
         stacks[a].reverse()
-                    
-    #interpretacja
+
+    # interpretacja
     for line in lines:
-        commands=line.split()
-        if len(commands) >1 and commands[0]=="move":
+        commands = line.split()
+        if len(commands) > 1 and commands[0] == "move":
             count = int(commands[1])
             froms = int(commands[3])-1
             to = int(commands[5])-1
-            mover=[]
-            for a in range(0,count):
+            mover = []
+            for a in range(0, count):
                 mover.append(stacks[froms].pop())
-            for a in range(0,count):
+            for a in range(0, count):
                 stacks[to].append(mover.pop())
-    #wynik
-    odp=[stacks[a].pop() for a in range(0,len(stacks))]
+    # wynik
+    odp = [stacks[a].pop() for a in range(0, len(stacks))]
 
     return "".join(odp)
 
@@ -87,4 +87,3 @@ def main() -> int:
 
 if __name__ == '__main__':
     raise SystemExit(main())
-
