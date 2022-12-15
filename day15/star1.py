@@ -39,7 +39,6 @@ def is_in_range(x, y):
 
 def compute(s: str, testline=LINE) -> int:
     lines = s.splitlines()
-    minx, maxx = intmaximum, 0
     for line in lines:
         _, _, sx, sy, _, _, _, _, bx, by = line.split()
         sx = int(sx.split("=")[1][0:-1])
@@ -47,22 +46,16 @@ def compute(s: str, testline=LINE) -> int:
         bx = int(bx.split("=")[1][0:-1])
         by = int(by.split("=")[1])
         rangesb = distance(sx, sy, bx, by)
-        if minx > sx - rangesb:
-            minx = sx-rangesb
-        if maxx < sx + rangesb:
-            maxx = sx + rangesb
         MAP.append({"beacon": (bx, by), "sensor": (sx, sy), "range": rangesb})
+    minx = min([x["sensor"][0]-x["range"] for x in MAP])
+    maxx = max([x["sensor"][0]+x["range"] for x in MAP])
     print(minx, maxx)
     count = 0
     for x in range(minx, maxx):
         if is_in_range(x, testline):
             if is_beacon(x, testline):
-                # print("B", end="")
                 continue
             count += 1
-            # print("x", end="")
-        # else:
-            # print(" ", end="")
     return count
 
 
