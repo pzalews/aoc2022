@@ -70,7 +70,8 @@ def step(path1, path2, graph):
             if dist > 0:
                 steps = 27-len(path)-dist-1
                 if steps > 0:
-                    rate = (graph[n]["rate"] * steps)/dist
+                    rate = (graph[n]["rate"] * steps)
+                    # rate = (graph[n]["rate"] * steps)/dist
                     values[n] = rate
     maximum = 0
     for v in values:
@@ -79,7 +80,7 @@ def step(path1, path2, graph):
     options = []
     for v in values:
         # if values[v] > maximum//2:
-        if values[v] > 0:  # and values[v] > maximum//4:
+        if values[v] > 0 and values[v] > maximum//4:
             options.append(v)
     # print(f"options:{options}")
     if len(options) == 0:
