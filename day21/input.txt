@@ -1,1849 +1,2751 @@
-grcf: 2
-lpcs: 5
-clpz: qqhn * sjrb
-ctnp: 12
-hqgv: wzzp * tfpc
-cqhh: 1
-rrnf: 10
-fwsn: hnws * jqvd
-rpsq: rwhm + zhvz
-ghzr: jpgg + wnmb
-nlwr: zlvf * rglf
-jrtt: 6
-sjhq: 5
-wvds: 4
-tspb: phpw + wglp
-gmgm: rrcm - ljcm
-qdlc: 8
-znmp: 20
-bcph: 5
-wnmb: 15
-cwzj: qlgf + dtzv
-lcbb: 9
-btvl: ccfp + wlnd
-ppmt: 3
-fvhb: 2
-bdgh: tzrp * vmjw
-bmjn: cqjn * hjpv
-rcqz: 2
-fcjb: wlvn + fwsn
-mrwq: rzll * qmtp
-mhzs: 2
-gjmm: bgzg * lrsh
-ntmh: 5
-lsdn: 3
-bglp: wlwt * bsbl
-nfvm: bbnc * wgwc
-qcrg: wcht - jctb
-lnpc: 2
-mmhp: 4
-pjqg: wmvc * rlzq
-rnfd: 2
-dqzv: 4
-qqgl: 11
-nbzv: 3
-pnbl: 2
-vzbf: 9
-gjcz: 3
-zrnc: tmzj * rlvt
-vppg: 2
-nczb: hwqw + vwbz
-zfdz: hzzv * qqjr
-fvdj: 4
-pbbv: 2
-mgbt: 4
-tsrg: vnfq + npql
-vlpq: 1
-pqjs: wmrq + tjbq
-pjbt: frch * dthd
-tpdc: vcrl + bwpt
-njmj: nrtm * sfzg
-dpjq: 2
-tmws: 5
-bqqd: sqwr * bwmp
-ngsq: 2
-gchq: 1
-wgsn: 2
-rtfz: twsr * pjlr
-svrb: 7
-fbjd: qqzf * wplf
-tdmr: 2
-rwmn: 1
-zgbv: 2
-sllj: 3
-bzfm: 2
-cddh: rrmd * wcrp
-phjc: jldc * szpf
-jjtd: pjvg * wrfw
-tdzj: qclq + qvpn
-vqcw: qrwf + dbzb
-ftpj: znmp * zfch
-gtnm: mzvp - qlpp
-vjtq: 8
-rbww: sdjc + vlrb
-lbcb: 5
-twsr: 5
-qmdw: 9
-pwpd: nlsq + lbtm
-srmg: 2
-mwpg: ljdh + jrhw
-dwdd: tspb + rthc
-hdsv: zznz + ngfw
-pvmb: hgrm * bbzr
-lbtb: wlsj + zfrf
-dthd: 13
-mnrp: cvqs - ctrq
-jldc: 17
-qflb: svhs * brbr
-ghzf: 5
-srsc: 5
-fvqc: fgsn * nwls
-qbzs: 5
-sgzn: tzrg - gjcb
-ppds: bctc / wrgg
-thnm: nwvw * wrbl
-cghb: hptz * lrgr
-nlsq: gdrg * cvgh
-plrl: 2
-hgfp: rjfm + cwjp
-ctqj: wndq * bvzp
-mzzl: 7
-mlrp: 5
-gmgq: 7
-cppm: 19
-glww: 2
-zfpf: 5
-hghg: rrrd + qfrm
-zhhq: frpl * sjnr
-jqnq: 5
-jvnn: gtww + qvmb
-qglq: 16
-jcqb: zzpl * dlzv
-hjpv: 7
-cglr: 4
-hrwt: zbwz * nwqr
-dqff: cbnr * psrv
-mltd: 3
-vvtz: zptm + lvwp
-thfv: bqqm + wbvp
-hdrn: 14
-zlbd: lnvb + lpcs
-hcbb: dqmq * hfvw
-hwqw: 2
-jgpw: pjbt + sshw
-qtlr: 2
-dthc: tsgg * rznl
-zjgg: 2
-pjvd: 3
-tjbq: 5
-hwch: 3
-zjvq: wbpl * rsgr
-bdcl: nmfz + brmc
-dvsq: fdfl + mrpm
-pjlr: 2
-sjgb: jfpz + sqbs
-bvbg: nnpj * hzzq
-ldjn: 4
-gdrg: zzgh + rmff
-vbzj: 13
-vtcr: 2
-spdn: 3
-tzjh: mwgv * tmhh
-dmld: 2
-lnvb: lbcb + tmcl
-tvmr: nqpj + jvnn
-dwtg: fdnt * lwqp
-fzrs: jzwv + zfdz
-fcct: 12
-mllc: 2
-qvpn: bcph * rjmb
-hqdz: hbjm * shmn
-nhzb: cjlm * njvd
-qvqt: pqcr + mrhd
-jgtw: zsth / vnlg
-dszw: vwvg * jfmw
-vvjz: 2
-rbsg: dpmj * bnmv
-tjfj: 5
-rfgz: 5
-dplj: 3
-tjwz: jtsj * mqjt
-llcs: 3
-nzfv: 7
-mfpl: bbdb * chpz
-nsws: 2
-wfdf: 5
-bctc: vthq - vqrl
-cfdh: 3
-fnbh: qnhd * mlbp
-ccpw: zdpd + rqfl
-cqjn: cjvw + srhm
-ggfw: 3
-sbvt: 5
-bfld: 8
-ljcm: vcnt * vhth
-hfsc: mtcr * cwzj
-vfwd: nnlp / wnfq
-wvnb: hptn * rlss
-jhrp: 11
-jtsj: npnz * jhwf
-nvpt: 5
-pjzb: mrcw / tqzp
-mzvp: gwzw * sbdf
-zvqr: qtwm * spfw
-qgcg: 6
-fdnb: 5
-nccq: 2
-wfvr: 12
-mtcr: 12
-tntz: 3
-swtb: 5
-vfhq: 13
-srgw: 2
-vvpz: lpjq / gbjv
-pldl: jpnt + tfbj
-hwtp: 14
-qcqq: ntls + zwtq
-fgqh: 2
-cmjm: ndjm * rtpj
-vgmz: 2
-cqqv: dvnr - vrlh
-zqsc: 2
-sqtv: dmpv - tpfr
-wmjt: 7
-sjnr: nldj + pdnl
-vvvg: 2
-lbpp: jlpw * qzhj
-nwls: 3
-qqrh: 1
-dhjh: fmrp + scvh
-rnbf: nqgg * wvlj
-zvpb: nwpj - ggfw
-mmqp: lqlb - qbtf
-ndhl: vngs * nrcw
-cqsf: vvls * mlrp
-qwvd: 2
-ltgh: wfvr * tspj
-qvjw: 11
-rtgq: bvfm / ngwp
-vmbj: 16
-dwcc: 5
-jhjf: 2
-frlb: rcnr * gmlj
-bdlt: lqsh - tdwl
-zvtf: qnjq + swhp
-ftnd: 2
-fqlc: 18
-zfdg: jsjd + gjgw
-lmmr: bgzs + jlrc
-dvnr: nqmz * ptfl
-frzn: 2
-nsbg: mnrp * rrvg
-ngtc: vzhs + qhwz
-tgzg: 3
-lfqc: 13
-zptm: ngtc * vdhq
-vrvj: 3
-qdwm: 3
-twcs: rfhg * zgfg
-spzt: zdvc * qmfd
-njhm: jlrj * lvlc
-qzgf: 2
-fqqz: 2
-bbnc: vmgc + mtzj
-nwhs: ntcc * tqrp
-smmv: rvgn * tqgw
-twcb: bdls + jhmg
-zgrg: lhgh * zdnr
-wbwg: twcs / msfh
-bwgm: 1
-tdcm: 5
-mfpb: jqsn + cprb
-nptf: hlwz / qplc
-rpvq: ppgz * tqln
-mcff: 4
-rvqg: 5
-gzsz: 2
-qwbs: clqr * msgw
-bdpt: 2
-vrnp: vmwh - pmvv
-lgtm: 3
-tzlw: fzgs + cqtg
-tlrc: 2
-sqsh: bnpl * qtqs
-phbw: vtld + wqpf
-bgqw: wlrb + dgjl
-jvjw: mrdr + jfqh
-nfjl: nrmr * tnph
-mrhd: 9
-brbr: 3
-vjlw: 4
-nzsq: rnvv + vftb
-lqvq: 4
-vscj: ffhv * hfmt
-bwml: gbwp * wrwp
-wgwc: 2
-wgjd: wcvq * gspw
-sgpc: 2
-zgfg: 2
-jlrc: 9
-scwc: 4
-rrdz: qlgb * jgtw
-mcjp: vvhm * fwrw
-bjrm: 3
-tnvj: dwdd / bchz
-njsl: 2
-fnmn: fmwf / zprq
-tbgd: 1
-dmzr: hghg - htpw
-jhwf: ltgh + vjft
-jjvs: 19
-ssgm: stbg - fngl
-szmt: 2
-frrt: lwnb * gzvj
-zbnv: blgg * ldnv
-zlvf: 5
-lqsh: fgpm + vhrg
-nqpj: wtms / tlrc
-sbss: vnhq * qqlw
-zprq: 2
-vddv: dpmd + jfgs
-hzzv: rszr * hcch
-gwqd: fqlt + wvsr
-qqlw: 2
-hjvj: 2
-mhhl: 7
-fdmv: wsnm * zqsc
-fsbt: zfdg + qfqg
-wtnd: wfrl + sjsv
-mbpn: dtlm + jmjp
-hcch: 2
-nfpv: 5
-wrhr: cslb * mcff
-dqzs: 2
-tbls: 3
-vppf: gfnw + cmhj
-dtdw: 2
-sgpz: dfld + wdrt
-wjjz: qqmh + zrmh
-wbpl: 4
-stlz: 20
-tvnb: 2
-gcwl: tcsw * gbnw
-mphg: pbbv * hhml
-gnvc: mvcz * rfhj
-vpgz: tsqp * rcvf
-vltd: 4
-cnms: bbht + ppzf
-zbqr: 2
-dzrj: gbcp + zwnh
-rdhv: 5
-brmc: dmbv + jnwq
-gzmb: 2
-vctb: 20
-wrfw: pqch + lmbf
-stwq: prch + wgbc
-cvgh: 2
-rrvg: 2
-mbtl: 2
-rbdb: 2
-jgdd: 2
-rnqj: 6
-rfwl: 4
-qqsw: swcw * ppsz
-msbv: qjjz + trqs
-lzcg: nzsq + cqwp
-rmzz: 2
-bqsd: mlnn * jbbw
-hfmt: vrvg * nvjt
-tmqn: zhcf * zctp
-tmcl: 3
-ldnv: wbdd * fsjw
-vrcs: 2
-tldw: 2
-rfhj: 2
-hwnn: 11
-fwrw: zcmp * ldhw
-qztb: nstr - rcdv
-mdqj: dzgw * jstq
-stmh: 15
-dzgw: fwrv * gbpq
-zbwz: 2
-lbgg: 4
-vdqq: tdjm * cgbq
-qmtp: bmvh - pghp
-wmsm: 2
-jqcp: 4
-hhhn: jvjw + gbzb
-rglf: 2
-njvd: 2
-pvcs: 6
-fzdj: mrct + sqsh
-rrbr: hqgv * rgwp
-qfrm: 18
-zfch: 4
-wbjp: jncp - thnm
-brfp: vhcg / nfpv
-vqrj: 3
-qmtd: 7
-nstr: zfzh + pclh
-fprl: 2
-tmtm: ngrt * vwhw
-wbfb: zfgm + mphg
-ndzl: 3
-zvvw: 6
-rncr: ztwg + mrzc
-qjsp: 5
-ndhn: dzrj * rmzz
-rlsg: jvhz / snrb
-msgw: vtct + cjsg
-fvfp: mzzl + mvph
-bsbl: 2
-msvr: gwbm + qctb
-clqr: 3
-jtmb: 8
-dwhw: 3
-wqdz: njmj + ljnp
-zwtq: rvhs + tmws
-vjzr: hzvj + cglr
-bghq: wprc * mhhl
-wtdb: znls / sbvt
-prch: mwcc + gpjw
-wjwq: 2
-jctb: 4
-qqhn: 9
-mrpm: 4
-nqdl: pqjs - cvql
-cgdh: cpjc + mhzv
-nbqt: nmbw + dqzs
-grnc: zvgh / clpb
-tgpf: ntqb + tjqg
-qzhj: 4
-cwjd: 2
-nqzp: 5
-ssgz: 2
-ncjl: bghq * rnqj
-bwpt: btms * lgmc
-pzjb: 2
-jhmg: 3
-msfh: 2
-mscj: 5
-rjfm: dcgl * bmgz
-dmnm: tgzg * rhts
-svmz: dfsd / nppq
-pwdd: 3
-vcrl: 5
-wcvq: cjrs + hcbh
-wfhh: gjcz * ddnr
-rczd: rwmn + vrrj
-pfgc: rcfm - tzqv
-ctlc: vmjr + mphq
-ljlq: 4
-sgwz: 5
-zhcf: 2
-jtnt: 14
-cbdd: dzqm + mppz
-vtct: fhrr * zjvq
-zswr: 9
-mvjf: tvnb * nrld
-pjdq: 10
-psrv: frmm + rvsn
-nqrb: 1
-nbbs: fgzj + mwrj
-pjbr: 2
-pbnn: ttsw * rcqc
-qbls: lqbt + zwlg
-dvdm: tgfh - vpgz
-tnqz: 2
-cmjv: cbwh + jvgl
-tvjp: 3
-jzwl: hrwt + fftr
-jfqf: 12
-ppsz: 2
-lhff: 7
-pjqt: 3
-rrtj: fqlc / pggl
-qqjr: jcqb - ppqj
-rdgw: nnzz + zghz
-lzgg: nlvq * thfv
-nlnd: 2
-zhvz: 14
-zftl: bppb + jhjf
-jfvn: 6
-rvpp: rgvr * hlvt
-rlwv: sjtj - thjc
-qlpp: 3
-tzqc: pcgc * hjbw
-wvfr: 7
-lnzm: gpgj * qdgh
-qpmb: htwc + vlbl
-vwcr: hnsq + brqf
-stbg: lctp + phln
-nrtm: qmtd * rtqb
-zqdb: rwgp * lbgg
-pzcg: wjwq * qnwn
-bzmf: mnqt + zvvw
-vtgb: lsbc * fgqh
-ggft: 1
-qctb: fnlp * glwp
-rrmd: 4
-bpgn: 1
-vnlg: 3
-crrs: 20
-frch: 3
-pbgf: 2
-mtft: 9
-bmpj: szbr + vqmv
-hqvh: zfpf * sggg
-rthc: ngsv * hgps
-nzzs: fjrs * hvnb
-wbvp: cffq * bdhc
-wplf: 3
-dgsr: wrhr + vlpl
-mddd: 2
-pjsg: 5
-rfgb: vtcr * pwpd
-pbjp: mfpl - sqtv
-dtlm: lnmh + pnrp
-svsm: 18
-gwtv: 3
-wlsj: lzrs + gczg
-rvsn: bqdt * vvpz
-dgbt: mqsp + ppds
-fngl: qvcz - tqjv
-fhhj: tmpv * qhnv
-vthq: ccqf / dqzv
-vbqv: wjjz - ztdn
-sqbs: 12
-mjpw: jjhc * pnhb
-ttzl: 2
-zrbz: tgpf * gzmb
-vfjg: hgjw + npmb
-rhts: thqf * lqcl
-ghhr: 2
-tqrp: fvfp + lttf
-zvtw: rqrl - grjw
-zrmh: vtgb / scfj
-tqqm: 5
-dpmj: 2
-wcbm: szrl * rlvj
-bzhz: frfh * nlnj
-tdpc: 2
-rtpj: 17
-tspj: 10
-wrwp: hmcd + glwn
-mhzv: flgt * zdrf
-vmbq: 2
-pwfc: mscj * fzqc
-sbdm: 3
-lgzp: 3
-qpjz: 3
-qwwz: qwbs + qspf
-nhvb: wtwc * srsc
-drgb: jcdz * jtnt
-psjf: ltwl * lbnd
-pcvj: 1
-tqnm: 11
-jjhc: 3
-jgjt: 2
-thqf: 13
-sbld: jvjb / gjvv
-phpw: bglp * thhg
-wdzl: sgzn - rzmj
-wlvn: svcm + brgv
-jnqn: 2
-fmfj: hvmr + bzgj
-dltt: vjlw + sjjd
-rbvd: 3
-cgwr: 2
-cflf: 4
-mqlc: sghd + fvlt
-sfzg: 18
-bnlp: rbfn * pbzp
-hzvj: 2
-tbvt: 11
-qftt: jpwf / rczd
-zrrq: bspl + hbtg
-snbq: ghsq * gnvc
-hmwj: vqrj * pjbr
-zffh: 2
-wgsr: dvsq + plzp
-vsfj: 2
-vlrb: 3
-gdgv: zlpm - wvnb
-rfhg: mswg - jcvs
-qtqs: 3
-nrcw: 9
-gdmh: 5
-dzqm: 11
-slpj: vgcr + phfs
-rppv: 10
-lpgw: bmdg * tlnh
-bvml: rfgz * jjvg
-vftb: 18
-lzrs: qtsz * thzn
-vlvv: 13
-jvbb: 4
-gqnt: jtnv * ndwn
-rnvv: 1
-clhz: 4
-jvtb: 3
-vlwf: mvpf + jzdj
-qthp: 7
-qfpw: 3
-qtsz: 2
-plzp: 10
-wfrl: wtmm * nsws
-phph: 2
-czdj: qlsg / ngsq
-zmwp: qgbn + zhtr
-pjhs: cfdh * hgcn
-vcjl: 3
-nczz: 2
-hnmd: 3
-bgcn: nvpt * wprh
-tmvd: 5
-jcgq: 18
-bspl: 4
-frpl: 9
-qfvj: dbwr + sjbp
-ccvn: vnpc * zbqr
-fwjs: srrl * vmbj
-przd: 1
-wmpr: 5
-dqcl: bmjn * frzn
-gbqg: ndzl + zpcn
-cfvc: 2
-ljnp: blds + dcnp
-lhmh: ffnq - ccwf
-tfpc: 2
-dmsb: 2
-ngnc: 2
-dtbc: rpvq + smth
-lcqc: 3
-brgv: 5
-qrlv: dzbc / vbfv
-npnz: rgbw - mvjf
-lqbt: nmwp + wqfw
-mvcz: tbls + nwgr
-rbfn: 2
-bwjr: fmcb + sqvj
-qqzp: gzws * vbqv
-wzwv: jbfr * zpph
-vmzq: 2
-jtmt: lsmf / pbnn
-tzrp: 2
-pbqj: 4
-hhvw: 4
-qnbj: bpzr * fstz
-hhjh: 3
-bmgz: 4
-qpwj: dntg + ddsb
-cmzr: 8
-dwrb: 9
-vvls: 5
-snrb: 2
-bvpg: 4
-qshs: 3
-vtvq: 20
-mpfv: 2
-bjwq: ddjh * mqbp
-fhcj: 11
-hptz: 15
-pgld: hwtp + gdfm
-htpw: 1
-jtdl: 5
-mbjq: 3
-nzhh: llgb + nwcs
-svsg: zfpc / mbtl
-qtwg: 2
-nvjt: qgph + tlqz
-gzbj: 5
-nlld: wwlg * mfgt
-pptv: qthp + fvhb
-fpml: dbql / zsgt
-lzbc: zqdb + wrjg
-tnph: 4
-bjfj: tgsh + zvtw
-mvph: 4
-qnqh: 2
-btnb: 4
-pwmv: qbmw + hqdz
-pdrs: 1
-mnjp: 4
-rtps: 2
-qcph: 3
-hzmc: fmfj * jjpr
-zrvz: qqrh + hvpc
-jpfz: 3
-wqln: 3
-bmgd: 2
-thzn: 5
-hmcd: 4
-vgpz: 12
-ccwf: 1
-nffs: fzrs + nwhs
-hlfh: 3
-fnlp: 3
-vvms: vvvg * dlhb
-tmpv: dvdz + ztgh
-lsmf: vscj + czdj
-ntcc: 9
-rrcg: pbvl + lzrc
-pghp: hqvh + psjf
-cznt: 3
-lfnv: 8
-hrvp: 4
-hwmn: 20
-pphg: 8
-jfpz: 1
-mlnn: 3
-qspf: 16
-hvnb: fbjd * tshw
-jbng: qtlr + zbpn
-wprh: 5
-bqfl: 8
-wvlj: 2
-tplm: 1
-hvmr: jczc * rppv
-plnc: ppmt * lcbb
-ccwb: 2
-glwn: 7
-gtww: rlpq + fnmn
-jqdm: trwv * bwjr
-rgwp: thsf * shcm
-wlwt: 7
-gpjw: 3
-vrvg: 5
-rjpt: 3
-dqbz: hfsc + bmgh
-vbfz: tsrg + pjqg
-grrj: 10
-rszr: 17
-vgwd: vfzr / gdvh
-mbzd: wtnd * vlwf
-gbzb: phph * qnrw
-pggl: 2
-htcg: 5
-tcsw: 4
-zwnh: npzg * twcb
-dqfh: 5
-wgbc: qwfb * dmld
-sdjc: zjsf / hhvw
-fzbt: 16
-pmvg: sdtl / htfm
-fndj: ddrp * hrvp
-zfrf: stwq * jcgq
-wtzm: 2
-jsqt: 5
-qzwv: 4
-dvtr: 2
-zpcn: lcwl * zwlm
-tnfp: 3
-snbn: 1
-gjnr: 1
-pnvn: 17
-pfnd: tpdc + mgqp
-bssq: qlwc + fcbv
-wjds: hlfh + crhv
-dvdz: dvtr * sdbz
-vwvg: dwzv - tbdp
-jzdj: 5
-bmgc: pjsg * ctlc
-srhm: 5
-mgdg: 4
-jhjl: hhrh * mnjp
-qnwn: 6
-rrrd: hdsv + rctr
-ntqb: sgzd * mddd
-njfh: 2
-zmpt: 2
-rhwh: vjtq * wvds
-bmdg: wtdb + tmbq
-rbtv: 5
-lplq: 3
-wpvq: 5
-wcrp: 2
-jpgg: 2
-hgcn: wqln + vltd
-hgps: 13
-fpst: 7
-mlbp: 15
-thjc: 2
-vcnt: lpwl * rjpt
-jtnv: 2
-npql: hhhb + dstp
-nhhh: pftw + vtlm
-lwnb: 11
-qhwz: cnvh * jdcj
-lctp: cnrf * hzbf
-jshb: qztb * tjqw
-dstp: cgdh + rnmv
-vmjw: 14
-jqsh: 2
-hfmv: fpth * hjph
-qdgh: 3
-dzsl: tfcj * rcjz
-bmml: zcpg * dngh
-hflj: dpnr * gwhz
-zssg: 2
-rbjh: 3
-wprc: 3
-zvfq: snbq + lbff
-dfsd: wcjj * dgsr
-qsbr: 4
-qtbf: 2
-vbfv: 2
-mmvn: 2
-sggg: nfdj * npdf
-gnjm: 9
-grjw: gbqg + gqfz
-rlmc: 2
-sslm: swcg / jgjt
-trqs: gjwh * bpfr
-rbcq: 5
-hjph: 3
-cqtg: ttzz + fszr
-czws: qllr + vrpp
-rnsn: 2
-phln: 8
-plqj: qshs * bzfm
-rpmv: 3
-whzp: crfm / rnsn
-phfs: sccs * smjl
-gspw: 5
-vrrj: 6
-qmmz: mdmg + sfjl
-rjdf: 5
-mvpf: plnc * zmpt
-dpnr: 4
-qvfz: 4
-ctjp: 3
-dstd: 3
-hrfd: zffh + czhw
-qfqg: qvrr * fdhj
-sfjl: lbdt / rcqz
-wrfb: 5
-dlhb: sjgs + vrnp
-ztcd: 2
-tfds: 11
-crhv: hjnt * gjfp
-pcgc: 5
-qtwm: fsnh * jngz
-vmwh: fgwr + qrtz
-gbjv: 2
-dfld: 4
-tdzc: 2
-fwrv: 3
-glfd: mcrq * lmtw
-pnhb: 3
-nzdl: 5
-thvj: fhhj + rrdz
-dnzq: qcrb + jvbt
-pdwj: 2
-wrgg: 7
-jngz: 3
-cwbh: 2
-nrmr: 5
-gjvv: 2
-hnwj: rnbf - rrbw
-dtzv: wlvh - hfzl
-vcng: 3
-vlvc: 3
-mbmv: 6
-bgzs: 2
-mqml: 3
-gtdl: zjlw + ncjl
-nnzz: 1
+fchg: 5
+fvhd: 4
+hjpd: ntvg * ntpl
+jhph: 7
+fjlh: 4
+tqsb: 2
+slwq: zjzs + zctz
+cqfs: 3
+qtlm: 4
+sdsb: 2
+lfcq: 2
+nlvv: 5
+zgcl: wqgd * zfbp
+tqvl: 4
+qvds: wcmp * nsvf
+npcg: 3
+wlqd: 2
+nslf: 4
+vfsl: wfdf + qpts
+tjft: wltb + jhdm
+dhmp: rrwd * shpj
+tbtc: 3
+lgdv: 9
+ftsd: vgqq + qsfp
+ldfn: 5
+tvbh: 4
+jvht: jpqn * mlcb
+jdvr: vlgs * nzwm
+pjbm: 5
+rzcl: chdb * tbfz
+ltdt: fzgw + grlf
+rwbt: zzpr * tlzs
+bfrd: 14
+dfwg: dpqr * tgff
+wqwm: 3
+vbmh: vtln * jbbw
+rppb: gfgz * sjmz
+dmrz: tjft / jtnw
+wsjc: dwvm + bjsd
+msqm: vpnm * jzzh
+dwdv: 5
+njsc: wngz * hdrg
+fbzr: 14
+wqdp: 5
+dpzc: wsqn * zsrr
+jgwr: 7
+wfcz: mqrf - hbrq
+rgfr: 3
+fpgs: 2
+tbfz: zfvz * fngz
+mfbv: ltfv * mlzd
+fmvh: cnmh + cljv
+swft: bnlp * pdgl
+mrnp: bldf + zhtv
+wpms: rjnl + hnps
+pzzm: dpls / cvgg
+wpsf: 18
+phtj: gbjw + wfmc
+sptt: 12
 wcjj: 2
-wtwc: dpjq + qbzs
-jvbt: bbsm * fnqj
-sshw: hcsn / srgw
-bshv: lljw + npts
-zvgh: jbgl / grcf
-smjl: 2
-tfbj: 4
-ntlt: 5
-hhml: jwzm * mltd
-dntg: vsdq + ljvr
-vrbg: 2
-mqvf: 4
-svcm: 18
-gdjl: 10
-dwzr: dchn + qnbj
-fcbv: wsnn * djcl
-qcnj: dcrs * pcpp
-bfzm: jthh - grnc
-jcnf: lmmr * pzjb
-lqlb: qfvj + gvjf
-zmgn: 2
-vjjw: rgcw + qdwm
-zcpg: hwmn - gjnr
-wtfv: 1
-bgmf: 3
-bpcv: 2
-gnmz: 7
-rjgt: 2
-lpjq: vzdv * vmqc
-fshp: ccpw * vtvq
-zfgm: snlc / fqqz
-tpfr: 1
-ptsl: 2
-fnwz: dtbc + qftt
-zzpl: scqd - swdz
-zmcv: 14
-mwgv: 4
-vzhs: 2
-zhzd: hnht * nczb
-nfqm: 10
-swcg: rsqh * rgpl
-qvqg: 19
-wrgw: qbgl * qjjd
-ccfp: 5
-qpct: lmng * trss
-smth: dqbz * hswz
-bpfr: bwml + mbrr
-bsmr: 2
-tzrg: czlb * plrl
-btjq: tzlw * wfsc
-nlfr: 2
-sbdf: 14
-ffwz: 5
-cbnr: 3
-bpbz: mrwq - vghl
-pcst: ftcm - sgnq
-brpf: 7
-gdjt: vrcs * cnqf
-qdwh: tfrz + rfgb
-zsgt: 2
-vgcr: 3
-psvz: gzsz * pqpv
-fmrp: qwmj * vfjg
-cjsg: 11
-lsbc: mtmn + jmbf
-zctp: 4
-blnv: 2
-rmjh: 5
-mhdp: 2
-jpwl: zcwf * jtbc
-fjzd: tdmr * pjvd
-gdfm: 5
-rwst: 2
-htzq: gwtv * strb
-zghz: zcbs + ctnp
-bqqm: mlnf * lqvq
-jmbf: 9
-tgsh: lwpz * dvdm
-dfwm: 7
-gbpq: 2
-ctbs: 2
-dgth: zzpw + bvlt
-zzpw: 3
-zglw: 10
-scfj: 2
-vnrt: 4
-zlld: 3
-qbtf: 11
-lpwl: cgmh + vpsq
-rlvt: fczc * lfhv
-smjz: dnwg + bnlp
-vqrl: nzhh + mcjp
-ddrp: 3
-mzpp: 6
-pmsd: 13
-jwpz: 5
-rsgr: 3
-lrnn: dnbg * zjgg
-qbmw: 13
-vlpl: cwnj + qnrl
-rcnr: lwpv + ntpr
-mrzc: gndp * qmgq
-jzwn: 5
-tfcj: zzsl + grrj
-dtlg: 6
-ngrt: 2
-mphq: bjwq + wtgm
-qlgb: lzgg + qwtg
-wlfr: 4
-rnbd: rvsz * rbsg
-zpph: 2
-wgbf: btpv * qrbn
-jpjg: 2
-czjb: vzww + jhff
-wtmm: zvtf + pdwj
-rbrr: qwwz * spdn
-ljdh: 1
-rrcm: msvr * tdzj
-rrbw: 3
-gbwp: wtfv + vjvn
-qbgl: jbng + pbbc
-bfdc: 3
-mljc: 7
-vhrg: wzmn * jpfz
-zhsz: 6
-jqsn: 6
-cqhw: qcph * nlnd
-gmjr: 3
-bwmp: 14
-qhnv: mbzd + fsbt
-tfrz: hgfp * frsf
-chpz: 13
-lgmc: 2
-gbcp: ndpb / prsj
-cjrs: bpcv * tqnm
-cpch: 10
-mltr: nhvb * grfw
-lhgh: jscz * zglq
-qdlv: whzp * nbzv
-hbnr: bmpj * jqdm
-dtdf: qhdt + bpgn
+hgmj: sstv + qzhb
+fpnf: qmrq + bfcq
+prwp: mdhb - nlfw
+hzzf: jfpn + lvcm
+jrrg: 5
+rbwf: qqvm / sjsp
+bpgt: 3
+wngz: 4
+sdjd: 3
+hnbf: hddn / sghh
+cvzn: 2
+tnlj: lbgm + ghsw
+jcqf: 2
+shpj: lggg + wbcn
+mwgp: 11
+wrwt: cghm / nzgd
+wpsm: 16
+rprv: 5
+nmcj: whhl * hjtv
+jlnn: tdjl + lmmw
+mlfr: 3
+fjds: hblb + swft
+bqns: qjng + rppb
+tsrw: 3
+gdhf: 3
+gbsb: 5
+qpgq: tgdl * vlzn
+wdhn: 2
+qfqv: 3
+vvdb: 3
+cfhv: 2
+nqzd: bllq * jpgb
+bjpv: tcrp * fhdl
+thdm: 7
+dthc: sdgf + ltfn
+gndh: swtp * lfts
+svjb: 12
+dsqp: 4
+fwhd: 3
+ctlr: mljd + dhzm
+fhmr: 3
+frrd: nvpf * bgjp
+mlcb: 4
+gbjs: 2
+gmcs: 2
+jfpt: 5
+nzbc: 5
+rglv: scmj + lcbh
+cjqh: 5
+czdp: ndfm * szdh
+jllb: 2
+fcfv: rrtv * cgqj
+mvmw: 4
+rsrz: sdjz + llcg
+rcrh: bcfp * rtjd
+dfsw: 1
+qmfh: fzrv + vgqs
+tssz: 4
+wphf: cvtc + hnfl
+mztw: 2
+bjwz: 5
+dsmr: 4
+mtqq: rhtv + sqfb
+mbjm: phmb + snzb
+nzds: vgdr + gnwt
+jdrn: 9
+wnsj: 2
+zgqn: 2
+tjnv: qbcg / csfn
+fhcv: dctp * bhpw
+pvgt: cnlj * rvww
+fqlw: 5
+tpbf: 4
+crvv: ngsv - cwbn
+pwtv: 7
+mpss: 3
+dbwp: rjst * tgnh
+wzzd: lmvz * bfqg
+qsnc: 14
+mfjq: 5
+nbcq: 4
+rfvv: 3
+vpnm: 5
+dgwm: 5
+btdd: 2
+cbcl: vlts + mzcw
+fjmd: nsqr * vfhr
+njjw: vvzt * qgft
+nmcr: fddz * wtzc
+ggfr: 2
+mczh: 4
+zfbf: 10
+dclg: 5
 bzgj: 3
-nwgr: 4
-znls: gwfj + cqzs
-cnvh: 3
-pwrg: cmjm / jjvc
-sqlr: 2
-vwhw: vmvh - tplm
-lwqp: 3
-njrg: rrcg + dszw
-cffq: 9
-npts: 4
-cjlm: pptv + rcbp
-gpbv: 2
-jrhw: gpbv * nmst
-lzpf: sllj * tvjp
-rqfl: 3
-wfrp: 3
-jmjp: ccjq * nnhw
-hcgs: 2
-pjvg: jpwl - bzth
-fszr: rbtv * cclh
-gnhd: bmhf * vwmm
-gczg: pcrf * nhhh
-bgzg: gbfm * ncbz
-cngw: 3
-srgf: zdrw - nhzb
-scrq: jqpg - dljd
-hnws: tmtm + mspb
-wmvc: 2
-rsqh: spzt - tqqm
-mfgt: 11
-pcpp: 4
-clpb: 2
-ncbz: sbgn + fdnb
-bvzp: vmtz + vctb
-dpmn: bshv + nccq
-zwlm: 13
-nqgg: 17
-zdnr: 2
-wvgl: 2
-pclh: qpjz * qnhw
-blds: vgpz * tbvt
-hgjw: cdpm + nzdl
-sqmv: qprn * tzqc
-nmwp: 15
-zwbm: 5
-wphw: 11
-nrld: 17
-sntz: 14
-jbbw: zmwp + spvf
-gpgj: 2
-zwlg: 11
-rzmj: twdv * szmt
-swhp: 4
-mrlq: 2
-cbjz: jrtt + ntmh
-tbdp: dpzz * vvmd
-pbwb: 2
-trss: ljml + vlpq
-ddvc: 5
-hdjs: shzj + rbrr
-jdqc: qdwh / dstd
-bchz: 2
-cnrf: 2
-wrqj: 3
-wvlf: 3
-rcqc: 2
-zwzc: 3
-btnf: 2
-rlzq: qwhr + zbnv
-ffnq: qgcg + dtdf
-vjvn: cwvw * zgnd
-fdfl: bwrn * jwpz
-ccjq: 2
-cwvw: 2
-wpbz: 8
-pjtc: btjq / tbwc
-cvql: 1
-tqjv: 4
-gjgw: bvml * jnjt
-rjmb: 2
-bbsm: mljc + cqhw
-jdpt: 2
-hvvj: zgsw * tclz
-nnhw: hvvj + vflf
-zssh: lzpf + frrt
-dzbc: fjbp + jrmb
-wzmn: vcng * chcb
-zzsl: 3
-jqbf: 10
-gbjc: 2
-dwzv: hddg / vrvj
-lchd: vfwd * pfgc
-dtsl: hfmv + gzzf
-wdrt: 2
-vtlm: drdg - tvdz
-fsjw: 7
-vfdl: tncj + crrs
-qngp: rlhz + bgcn
-pjjs: 2
-zdrw: njrg * fprl
-bwrn: hcbb + wfdf
-gdsh: rmjh + clpz
-ffhv: tfzl * qvqt
-ljvv: wpvq * vfhq
-fsnh: mzpp + rlsg
-mbrr: czjb + dzsl
-mnnz: 4
-ltwl: pjzb - sgpz
-vpsq: sslm * dvgj
-wpqz: 3
-wlrb: 7
-bdhc: 9
-fjrs: lfqc + jqcp
-lbdt: lfln * wzwv
-sdtl: jtmt - lbtb
-lfzw: 4
-hcsn: rdgw * cwbh
-nlvq: fjzd + gtnm
-jfhp: mhzs * qqgl
-tclz: 3
-ndjm: 3
-qlwc: mltr + mbpn
-dchn: tjwz + sqmv
-hbjm: qszf + dhws
-tlnh: 2
-jnjt: fhcj * lnzm
-mtwr: rdgj * pnsd
-zdvc: 2
-hmzv: bfdc * pgrd
-jvtc: 9
-rcjz: 2
-qplc: 2
-fjhs: hlfn * rtwr
-sfbc: 19
-hswz: wvfr * wphw
-nvbp: qngp - gmgb
-gvjf: 9
-ftgh: bqsd / mqml
-btpv: cssd + zhzv
-lbtm: wgbf + mvth
-mdds: nqzp * gfpf
-cdjg: 3
-zrsn: mdqp * pgld
-wzzp: btnb + svrb
-blgg: 2
-mqnn: 20
-cqzs: 20
-nwvw: 13
-qrtz: 7
-jdcj: ddvc + ctbs
-bljz: pnsm * jpjg
-wlnd: rlwv * cwjd
-fjll: 3
-wqfw: 11
-frsf: zrnc + rtgq
-zqwr: 4
-gqhv: nzfv + sbld
-hnps: 3
-lmmc: 4
-tfpg: cqsf + qzwv
-rlss: fcjb + rtfz
-hgrm: 2
-jwnq: 2
-ftfh: 4
-chhj: 2
-jbgl: jqbf * lltd
-nbmq: 5
-thsf: 6
-bhbs: lwhl * pnvn
-rsql: qflb * pwdd
-fgwr: 2
-jqpg: fjll * dmzr
-jczc: 2
-crzr: gdgv / pbqj
-ntls: wpqz * bhfb
-fzqc: 7
-zjsf: zqwr * bqfl
-dmpv: nsvd + hflj
-jvgl: qsbr * jhjl
-njpc: rjgh + flpb
-bbzr: 4
-hhhb: jbjz * frlb
-wbdd: 3
-qjjd: 4
-dclv: 11
-qsbm: cbjz * rbww
-wvdg: 2
-dggw: htcg * vbzj
-rnmv: 2
-sdct: gqnt + hnmd
-qmst: 2
-jzwh: twhl - zhzd
-tlqz: 3
-ccqf: psvz - pwmv
-lwhl: 9
-njjs: nptf - wgjd
-lbdc: 1
-gzbs: 5
-mdlv: 5
-thhg: 2
-jpwf: lchd * glfd
-vmvh: rtps * rbcq
-tgfh: gldm / hnpq
-lvmz: qlcr * stlz
-swgs: 1
-vzww: njpc * njfh
-bmhf: jdqc - mqlc
-ghsq: nlwr + zsmg
-bvcl: mgdg + gbnz
-csqs: 3
-gcjz: 2
-nsvd: 3
-vhcg: mmqp * jtdl
-fvtn: jhrp * ntfh
-pnzs: qpvv - rlvb
-rlvb: 12
-zwsq: jfhp * cnms
-rrjv: smjz * wmpr
-lmng: btzv - mzjn
-qwmj: 5
-hhrh: 2
-dpdr: 19
-nmjp: 5
-ddjh: 8
-gbfm: 3
-gbnw: 3
-gzzf: 4
-zqvp: hcdq * wwlt
-vngs: pzsl - cghb
-dtln: 2
-cmhj: 7
-bppb: 10
-mgws: 2
-bnmv: mjpw + jvbb
-mtmn: wtzm * ncvf
-ldhw: 9
-rbvn: bhts + bwgm
-qqmh: 5
-mvth: gmzv * vfdl
-scqd: cddh * prsm
-dhns: ttzl * pssb
-ftcm: 11
-flpb: 6
-bngv: tfpg * qtbf
-flgt: 7
-jsjd: bzhz * pbgf
-sbgn: 2
-ntfh: 4
-jscz: 7
-rbmt: wvdg + ssrq
-rgbw: phbw * btlg
-lwpv: 6
-qnhw: 9
-jnwq: 2
-vmjr: dmnm + dggw
-ntsh: 2
-pssb: zmgn * mtbc
-fvmr: srgf / sgpc
-bqtf: tnfp * vgmh
-nnpj: 5
-hzbf: cppm * fspq
-zcpm: cfqm + dqff
-pqpv: mcvt + rrjv
-dbgp: 10
-cpmw: 10
-jzfb: gchq + rvpp
-qprn: fnwz * mbjq
-vnhq: 7
-wrjf: 3
-hfzl: 3
-hfbb: tdcm * zrvz
-qnlz: tczg - pvmb
-ngpv: 13
-shgj: vlvg + nvct
-sggt: 5
-tvnf: sjlv * rvfd
-gldz: vvms * bgrs
-wsnn: 2
-vgrb: sscs * bmgd
-fpth: 3
-tsqp: 3
-gqfz: vnrt * tfds
-mrbf: 2
-tgjq: 2
-lvwp: ctsh * bhsd
-fczc: 3
-rswb: fpml * nlfr
-ltvm: 2
-mdmg: zqvp + gdjl
-btzv: dwzr * gmgm
-mnqt: lsrf * tnqz
-mlnf: ztcd * tnvj
-fnqj: 5
-bgrs: 2
-srrl: humn - zgsm
-dngh: 3
-dcgl: 2
-pblv: 5
-fdnt: zpzn + ghhr
-qlsg: fshp * scrq
-sljg: 3
-snlc: jlsb * tpwm
-zznz: 3
-rggw: zrrq + tmvd
-lbnd: dtdw * rdhv
-sccs: gmgq * rnfd
-mppz: 4
-znvf: 6
-hzzq: 5
-jqmh: 2
-mcvt: njjs * chhj
-rwgp: 7
-gwfj: zswr + ggft
-swgp: cflf + vlvv
-jthh: jbjs - tntz
-tjqg: 2
-zpzn: 4
-ctsh: 19
-bvlt: 6
-pqch: jvgj * mgbt
-jhgl: 2
-jcvs: fpvs * zwzc
-fqqv: stnc * wpbz
-gmgb: 4
-ftth: ntnd + gvwh
-swdz: tmqn + snbn
-jbfr: 3
-qgsb: cqqv * qlmf
-jlrj: 19
-ffbn: 5
-qqzf: 2
-gjcb: hmph * cdjg
-jbjs: mfpb * vjjw
-zgsm: qgsb - pqhv
-lrsh: 7
-mgqp: 18
-hddg: rsql + lrnn
-bmtm: zvqr / hstz
-stnc: 16
-tfzl: 4
-jjhp: lths + shgj
-gvwh: 1
-fzgs: qwvd + mwpg
-pnsd: 3
-tljw: 2
-lljw: mdcj + ssgz
-bzww: 3
-hbtg: 2
-jhff: btnf * tbnf
-bbrl: 2
-btms: 4
-lsrf: ctqj + przd
-fgzj: gwqd + wrfb
-wcwz: 1
-ztdn: 5
-lttf: brpf * tdzc
-nqmz: pzcg + swgp
-mhms: bqqd / qvfz
-spvf: dtln * lgwh
-htwc: gqhv * dnzq
-sgzd: 6
-zgjq: qcqq * tldw
-gpwg: 7
-vflf: lbpp * rnwv
-jlpw: 4
-dbwr: bbrl * clsc
-rgvr: 3
-rtwr: 5
-pchh: pvch * nvps
-drdg: 16
-qvmv: nqwm * qqgz
-cssd: 1
-hnht: vmzq * jfqf
-tjqw: 3
-mzjn: wrjv / vnnb
-bmgh: zgrg + qmmz
-pqcr: hcgs * pwrg
-pftw: hrfd * ldqw
-tczg: hzmc - pgmg
-dwhr: qnqh + dclv
-qlcr: 2
-zhzv: brgm + jbcb
-fftr: lhmh * wvlf
-gbfr: 13
-hdjq: 1
-bpzr: zcgp * bhbs
-qlmf: 2
-fspq: 2
-bnpl: nvbp + vgrb
-ptfl: 6
-bhfb: 4
-mqjt: hnwj * qpmb
-nrwf: 17
-gfpf: 3
-sqvj: lplq * znjh
-gmlj: 2
-swcw: 5
-bvfm: jjtd + bpbz
-dbql: vsns + fqqv
-vnpc: 5
-dsfz: 2
-mtbc: hbnr + zssh
-pnrp: zcpm + wrgw
-fpvs: 3
-chzn: 9
-qgbn: 5
-jwzm: 3
-gldm: zhhq + czws
-zcjt: 2
-rcvf: lpgw + qsbm
-pbzp: tvmr - gbfr
-tbwc: 3
-bhsd: sbss + qmdw
-rgpl: 2
-cwjp: 3
-sghd: bngv * gpvd
-jbjz: 3
-nwqr: 16
-zcgp: pmdl + ngcl
-psgm: pjdq + pjqt
-sjbp: 9
-mdzn: jqnq * sgwz
-zfpn: 2
-hstz: 4
-pnsm: qvtj + bmml
-vrlh: njhm - lzhn
-ztwg: 6
-czhw: fndj + bvpg
-dcnp: pmvg / gblj
-lmbf: 1
-cprb: 1
-prsm: 4
-nwcs: chzn + gfcj
-mspb: 5
-cvqs: mdzn - fgwt
-lltd: svmz * jnqn
-qnrw: bdgh + qpwj
-lcwl: 2
-vnfq: nbmq * dpmn
-bhts: mbmv + hdjq
-gwgh: btvl * rmtc
-mqbp: zmcv + gnjm
-dhzz: 5
-jjvc: 3
-qhdt: 5
-qnjq: jwnq + dgth
-qzsj: cvnq - rnbd
-pvch: lnpc + pwfc
-zzpz: qrlv * vsfj
-wglp: 13
-ngfw: vgmz + twrf
-qlgf: 1
-sqwr: rwst * hhjh
-dmbv: 9
-qtqc: dgbl + rrbr
-pqhv: 11
-qrbn: 3
-ndwn: lfzw * ffwz
-dbzb: qcbv + pblv
-vhth: 3
-qclq: fdtc / ljlq
-vlvg: gldz / gcjz
-qvtj: 2
-hcbh: 1
-rcfm: 14
-tncj: 3
-qqgz: 2
-ppzf: 2
-lchn: vrnf * qcnj
-lths: fpst + gncg
-wcht: ldjn + jvtc
-bbht: jcnf / jdpt
-nmbw: vlzn + ghzf
-spfw: 4
-slsl: 5
-vjft: qtwg + wbjp
-cgmh: vcjl * ftgh
-cvnq: zvfq / hwnn
-tdjm: 18
-tvdz: 1
-tshw: 4
-tqzp: 2
-prsj: 2
-qllr: qctt + jjhp
-lfln: 6
-sscs: 3
-tmhh: zvpb + dwtg
-bbgc: mtwr + pcvj
-dgjl: 2
-fdhj: gzbj * jspm
-rvhs: dsfz * ctjp
-wmrq: 2
-zzvg: 2
-wwlt: nfqm + wmjt
-gjfp: 2
-tspd: 5
-qvcz: 17
-mjwg: pfnd - rlmc
-vgmh: qvmv + tbgd
-dpmd: 1
+fggm: szjv + jmsw
+bvww: 16
+stvz: 7
+szmh: 19
+lclv: tpbc * zzsz
+gwrh: jrrg + pvlp
+mdhm: dthc * dwpr
+svbj: 5
+nzwm: 3
+zfdg: ntgl * rgrw
+wvwd: zhrt - tgfs
+bqjt: 3
+cqrh: 5
+mwwt: cwgg * vmfd
+bjdn: 2
+bpwz: vtzr - cvrf
+jgpt: 2
+czfc: ntgv * bpgt
+tdfb: hzgf * hpwz
+lmzz: 3
+vpcf: 1
+ntwf: 7
+dqcp: 2
+jhts: 11
+zrpn: lnpz * mllb
+hdtp: cjbf * mmml
+dlmt: cpcn * jzwp
+qhsq: 4
+hcpr: 3
+rzfl: gchw * llrz
+gzcn: ncmp * snfr
+hrzh: 2
+dfzf: 16
+gmzb: 2
+njcg: pzmn * vqqh
+znwp: 4
+nfzb: 3
+dpjv: qfmh * gqsd
+rvww: wpsf - rhrq
+tqpv: 4
+prbf: jgsz * cqzs
+jttq: 10
+zbsm: mhtn - bgbh
+wpwr: 5
+bnrz: gjdc + fqlw
+bvzj: 3
+lmjh: tcnv + prhw
+lrjm: 4
+ldqv: frgr + lqcb
+qqwr: jdvr + tgwc
+bmqp: 4
+tzlp: tsrt * cwgp
+grnp: 2
+czwg: 2
+pbcv: 3
+mrbz: wqjf * fczv
+wrlb: 5
+cmdr: mmsh * npwz
+mbdd: hpqc * vbww
+jvfj: svvl + twch
+mhjg: llff + bsnt
+rgrv: 5
+pzbv: 2
+njgp: bzgj * rnqg
+cjvp: 2
+fgdv: qzbg * wszh
+npcf: dclt * llzt
+nzqw: 4
+gsjq: 5
+tvzz: cvnw * hvtg
+bglm: 3
+dcrc: rsdd * phft
+cssf: zvhs + bhcp
+bfln: 5
+hjmh: 5
+rjls: 4
+tzrp: 5
+trgm: dvtc - zhss
+ghhj: jhtc * wrfq
+bbll: 3
+nzpt: ltdt + dbnv
+slft: mmcn * fcwt
+pnhc: 3
+mpgt: mwqt + vlnh
+wqjf: 3
+nwfq: 3
+vpqz: 11
+gvlz: 3
+hrlt: 3
+psph: jbpv + thds
+hbqq: 16
+bqbt: 2
+qdwv: trfc + cswj
+qzsj: 19
+gwnz: 3
+vnvl: 5
+tjrj: qpmc - hgjr
+wvqf: 3
+brws: 3
+bsrr: 11
+grst: 20
+lvpf: gzsf + bvsm
+lzcn: 2
+fhvw: humn - jchs
+jbmf: ggpd * bljw
+gwwf: 3
+pwpn: 2
+ftnw: szbv + sdws
+lcvf: bdbh - rnft
+mqqr: fbmb * jjqs
+nqgd: jflp - rmmb
+rssw: 4
+dcjs: wnjm * rssw
+rscg: fdhj * zcvc
+lsvp: trhb * znvd
+bqlh: jwvq * nhrq
+rltm: 4
+hcsb: 9
+mvgc: 2
+wrnn: rthw + jwnt
+bprw: 3
+jzvl: 4
+fvct: 2
+hrdp: lvpz * lfgv
+chdb: hwbf * mmbt
+blwr: 3
+jvlz: 7
+cjnw: gngd * fwmw
+sqcr: scvq * dmzl
+nbqm: pjnl - zgmg
+sgpw: qmwq * bfnt
+jjtn: ldjm + nvld
+pznw: 4
+dpzm: zwqv - ffqb
+mlbf: jhrz * mcqq
+bjzb: 2
+nlps: 15
+phwz: mcmg - rfrr
+mgsd: 4
+bcbd: brqw / dwhp
+shhc: hrbm / sfdp
+lmlr: 2
+lpmh: 4
+rswb: mpgt + dsvv
+chbm: pwpn * djsq
+gpwj: bltz + trvb
+phmp: slbb * dqnm
+scwl: fwpr + ntdl
+gmbj: 5
+gmgn: ftnw * bcmt
+vrcs: 1
+rbgm: jttt + zdpn
+pmtw: 3
+npvz: ltmq - zqgd
+lddb: 10
+dfnc: dcjm + dwwv
+fftm: 5
+lchj: 9
+qwwh: 6
+lngv: pmbl * wgdc
+wnsd: jfgq * pvnc
+cqzf: 1
+wcmp: 2
+fczv: whjf * ffwp
+vpvb: hlzb * bnvt
+lvls: 5
+lmfw: dlnf / ddtn
+pdtj: 2
+hnmp: 2
+dhhw: flwn + jsmh
+ngmh: 2
+dzff: 7
+wlzs: zzng * cvrt
+pgwj: 1
+mcqn: glht * cfhv
+qptt: 2
+jrhp: jlpm + tcwm
+dmmr: bzlt * jjpv
+rwpg: 13
+qhgh: mdzr * zbcs
+pqwr: phqq - ctdq
+sjbt: 5
+mtbg: 12
+vbrc: fhmr + rmvl
+nrww: 3
+dlfj: hhsz + cpzc
+jtcj: 8
+whpl: 5
+bltw: cssf - plrv
+ffdn: rnjh - zmmp
+bmhn: 2
+bqtb: qhlp * dnrn
+dsgj: 2
+dwsp: 3
+njnq: 9
+jpqn: 2
+vflt: zpcw + dcjp
+cvqw: ztdq * rgrv
+tcrp: psnc / lhfg
+pqwf: 3
+jllq: 5
+hppd: rswb * pfnd
+mrtl: 16
+pvlp: 3
+dwpr: 11
+fpvb: 2
+bjrj: mcqn + jzgp
+hdsp: ttdt * mczm
+hrsn: 3
+dmqv: 2
+zbfv: lnbr * zfdw
+vwdj: drfv * ncjd
+rjst: mzcf + zldn
+bdsp: qclb + qrjr
+pmqr: 1
+lpjz: brhh - zdjv
+dfpv: llhn * wpzc
+pwjn: nmvg + szrd
+qsll: 4
+jsbw: 5
+wgdr: rpmz + qbdz
+clgl: fjss / gbjs
+wrfr: pzpz * lfwp
+pnvj: qrjc / zlpf
+btmp: lbdb * fzwh
+dbmd: 11
+wszs: nnjm * lcdn
+lbgm: vnpf * wzlh
+mvgt: rsrz * sbzp
+wlnf: 9
+tfvm: drvf * cmrg
+rmbn: cbnq + crwn
+gszb: vqpf + brbg
+tcbw: 3
+hsvl: 1
+mtbv: gbhm + hlfl
+gwld: gmqt / mdgn
+wzww: dwhq + hfch
+zldn: zlbm * mwls
+jcjj: 3
+zzzc: 2
+gdvz: 13
+zzpg: 3
+mlrp: 2
+mqng: 2
+nntf: 5
+cqbr: 5
+nhrt: 3
+zgdg: 3
+qrjc: tvbh * ngng
+cbcf: 6
+hrtp: 6
+nssj: gslf * tcsl
+llff: 7
+dlgh: 13
+lswr: lmrl * nvwj
+gqws: 2
+ncjd: frsc * jcng
+bgzs: 6
+tgwc: fcjj / mlrp
+wwsc: 4
+whgn: hgbb * qpsr
+qhvs: tsrw * vmqz
+fbdg: jlgj * mlfr
+qdbt: 2
+cmbw: ggsl + dlfg
+qwwg: bnlg * gbtv
+nvwj: 5
+brwm: tqhm - pvpm
+dtfj: zsfr - hdjh
+snfr: 2
+pmfs: 2
+bljw: 2
+mczm: 3
+bhmj: jcpz * dqfd
+fswn: qcvv - fbsb
+ptff: dbjl * bvvd
+cwch: hgjq * wfhm
+ggvb: wgrl + cqzf
+prgh: qggf * nwsv
+tmqv: bhjq + hsvn
+wldt: 2
+hfsw: fzvw / dgzg
+ttwd: 2
+ctzw: 13
+rwss: hcjw / rvpf
+cgdd: jhts + zbfv
+sghh: 2
+mhws: srft * lhmq
+qfcf: pzzm - jtrs
+pdsj: mvjf * hshp
+bhcp: rnwm + bsfr
+vsvb: 9
+lsbc: rtmg + gtjw
+lmrn: 17
+vlnh: lltb * ggfr
+cgrs: 1
+trwt: 5
+vbww: 3
+bzps: bqbm * fpvt
+dddb: 3
+qsnq: rzbs + dhmp
+nzgd: 2
+tnbj: 10
+rtlf: wpnd * hpdb
+mdhq: 4
+qnzf: gbjm * slrq
+lfnn: jsfv * flwj
+dmtr: wfft * gwmn
+mmcn: 3
+rqwt: tmvt * drml
+rvbv: 2
+zrnf: 3
+gszl: 2
+lnwp: 2
+ldlt: prgr * tpzc
+rdsv: rjls + lwbb
+sstv: cdtv * qmdj
+lhrp: sdzn + lwsp
+tcwm: tqsb * pbsd
+rrtr: njcm * nnzg
+zrjq: nznr / bccw
+wfps: 8
+hpwz: jcpq * ttrs
+qmwq: 3
+qgft: 2
+fmjl: 5
+jcfg: 17
+bngt: 7
+wzgz: 9
+pdqp: 3
+mncm: 19
+fzzp: qjqr * spnd
+mcmj: vqrw + ccpr
+jdfz: 2
+nhjs: mjdq + mdhq
+bpwh: 1
+fzgw: nrrr * ngmh
+hqsf: svbj * pjch
+rflz: 4
+zhrt: wlzs + qvhf
+glqg: 9
+qdhg: 1
+whqf: jdlj * mwmv
+dhwc: lsbc + brcv
+psws: nzzh + nfwb
+rswg: rtnc + zgcl
+trfr: 2
+dnzt: bqgb * hbtf
+nhgc: nvfr * fcnl
+jmdf: 5
+psnc: vflt * jcsc
+mlhj: pwtv * nhrt
+tsrt: 4
+ltdw: 5
+sjsp: 3
+mwls: 7
+hmnm: 10
+gjcw: 3
+fwpr: pswr + bcbg
+lhcm: vzrs * jbqj
+llhn: 3
+hwnm: tlgw + qdwv
+rchm: 2
+sttd: 3
+dhgd: pzwm + bzhc
+lcfj: 17
+bcdt: btbc / rzgq
+vnhf: bgql + nzqz
+fhnr: 4
+jtlf: jbjl * vncg
+qnqz: jglm * bjvw
+dctp: 2
+jnbv: hshd + nscv
+qnst: 2
+vsdt: qpdh * dmqq
+lffg: thtq / tsbm
+stsz: 14
+qfhf: 3
+njcm: lmfw + mlgg
+pfsq: 2
+ppcf: qjfj + bnrb
+pgmj: gvnz + zmqr
+nwsv: 5
+qhgc: 5
+jltt: fgdv + zbhp
+vplr: tpbf * ffbj
+brdn: chfb + hcsb
+rjrf: 4
+mlzd: 2
+hmgn: djbw * hzwp
+rhrq: 4
+btbc: hfsw - stdj
+lwnq: 11
+jsfv: 4
+fpvt: grmh * jgsv
+dmqq: 3
+trms: nvsf + qfst
+bhpw: mssb / wgvh
+lmdn: 2
+ggvl: mrtl + jgtq
+pqvv: lflw * mtqq
+jmsw: 3
+lnhh: zbjp + btqs
+sfdp: 2
+qhjl: 3
+dpqg: 2
+qrff: 2
+gsch: 4
+nvhd: jjtn * gmcs
+dzdq: 4
+tzvw: 8
+lvmh: bdfs * wbqz
+jtmt: hqrm / lmdn
+gjfh: ffgz / nqsv
+cpzp: qncm + wdwf
+nzzw: 3
+pwdf: 7
+wjrt: 2
+ffdf: mqqr / zpzp
+dsrz: 2
+ddjn: 5
+cljj: nljj + gzch
+hcwd: gtqp - jlwb
+scfs: qsnq - pblr
+pgbh: mznv + sldh
+rpmz: tght + dlfz
+qpzb: vnrf * mfnp
+vqdd: 7
+jmnz: lpzl * fpgs
+stfm: 4
+mjdq: hpzw / twrn
+gdww: bfsb / cjqh
+fdvd: 2
+rscn: 11
+bsdh: fbfg * mfbv
+zphm: psnv * tsvc
+ttds: vhpg * pmhs
+cvtc: 1
+sptq: 4
+jchv: 8
+jwnv: 3
+tfdh: 2
+ndph: slcv + rrvj
+jtwc: cngl * fdvd
+nggs: 6
+cmrg: vpvz * ppvh
+gtqp: qjqd / lvls
+tflh: 4
+tshp: cnlh + hsvl
+slht: 5
+lnpw: 2
+mzdb: jqng + ghlb
+jzlh: 2
+zqzw: vnrz * cqpj
+nsqr: 4
+nwvw: 3
+htqz: 8
+vlzn: zssf + tnnc
+fcwt: vhmn / cqtt
+tjlv: 3
+jszs: zztq * mgjb
+bmvb: hrbj * cmdr
+vlgs: tvzh * zjvw
+tgtg: thnc / cdgd
+ghsw: bdzl * qdmt
+cwgg: gmbs + mchq
+cvnw: 12
+zhgz: 2
+rtmg: 2
+tlzs: 2
+srqs: 5
+wnwq: jbnf - zwrn
+nlnw: hzhf + ztvc
+drvf: 13
+mfnz: 5
+lqtm: trqf + mlhj
+dhnp: 2
+dtrf: gwws * jhnh
+ggml: rmbm + tjdp
+mggf: 3
+zfdd: 2
+npwz: 3
+zlbm: 9
+dzcg: 2
+hshp: 3
+cntz: dclg * jvht
+mrgs: dmcl - zmql
+slpm: tqlz + jfpz
+ggmm: 3
+mcqq: 7
+nnfb: gflj * smfn
+dhzm: hbjt + rmbr
+pzdl: 2
+zcvv: szfd + msqm
+trhb: 2
+rdvh: 7
+pwpl: 2
+qddq: 5
+vpgp: 5
+vssc: zwqj * cmbv
+dmhj: flqq - cwvp
+gbsr: 2
+jzrg: 10
+vgwn: 2
+hqft: 10
+cqzs: 5
+sbzd: 4
+btdt: phtj - ndlf
+flmc: wwss + zdvp
+svfr: qzwt + nhgz
+jhnh: htfq * qbzh
+bfvq: 3
+zrzv: lnnq + gnjv
+wbvm: 2
+tqzf: 3
+nvvv: dgbn * spcb
+sqjf: 3
+dmhb: 2
+vvlw: 3
+wmcv: mdqz * ctmt
+hbgd: hspj * sbcs
+vpss: zrfv + nvtd
+zztq: 3
+wnlr: ddlb + qpgq
+vlfp: 2
+plqr: vhjz + cbcl
+mjdp: ljpr * nbcq
+scjv: hdrp * cmnq
+jgtq: hgbw * hmgn
+vzlt: gcjm + jjch
+twpl: jtmh + pgwj
 jfmw: 3
-pswn: 3
-brqf: qtjq * gpwg
-gncg: sqtw * tdpc
-gdvh: 3
-tmbq: nhbd * lgtm
-wwlg: 8
-crll: 18
-cjvw: 14
-rctr: 16
-tvqb: 8
-lqcl: 2
-bcjg: 17
-bdls: 4
-dljd: wmsm * lhff
-vrsj: zpjm * hhhn
-zfpc: qfch * rbvn
-mtzj: 12
-nwpj: 14
-vrnf: 17
-srdt: zhsz + nfjl
-sqtw: vgwd + tdql
-hqpj: 2
-cqwp: zvsl * cpmw
-gmzv: 2
-rwhm: pjhs + zrsn
-bqdt: 3
-dlzv: 2
-twhl: qtqc / tspd
-twrf: rrnf + bzww
-frmm: hqpj * ssgm
-jfqh: 13
-szbr: zhhs + gpbn
-mswg: hjvj * nctr
-root: qpct + dthc
-tqmq: bfld + wfhh
-tbdf: 2
-wtms: tgjq * hfbb
-jbcb: 4
-tbnf: jtmb + wcbm
-lfhv: plqj + ftth
-sjrb: 2
-gzvj: 12
-tdvs: 8
-mdrl: 3
-tqgw: gtdl - zftl
-gfcj: nrwf * pnbl
-mrct: dltt * dwcc
-mvdh: 5
-dhws: smmv / njsl
-zhhs: 2
-pmdr: llcs * svcz
-rtqb: 7
-nmfz: 17
-vmqc: pdrs + bdcl
-grcc: fvtn + spbg
-sjgs: srdt + tvqb
-vqmv: 15
-mqsp: vblm * lwsr
-rjgh: 13
-czlb: jshb + vqhz
-wtgm: 4
-grfw: ftfh * wlfr
-twdv: wcwz + crll
-qnrl: 1
-tdwl: 4
-mwrj: 7
-mtnp: hmzv / cmzr
-rnwv: 20
-zglq: 11
-dlnq: rbjh + vfgb
-dvgj: 2
-thcg: tbdf * fjhs
-ljml: 8
-gndp: rfwl * fvdj
-bmvh: wnfg / mmvn
-wsnm: blnv + qvjw
-ssrq: 5
-chcb: 2
-qwfb: 4
-cclh: 2
-rncc: 3
-zbpn: 5
-jstq: 2
-rcbp: mqvf + nqdl
-vsns: sntz * pldl
-rvgn: 2
-lngn: jhgl * nffs
-pmdl: mdrl * bvbg
-mdcj: 5
-bbdb: gcwl + gzbs
-wlvh: qfpw * cngw
-mdqp: 2
-gjwh: 2
-rbvb: 3
-qpvv: sdct - dfwm
-rzll: mpfv * slsl
-nhbd: hlrs + jsqt
-qrwf: zzvg * wfrp
-lzhn: shqw + qqsw
-shzj: qzsj * ngnc
-trwv: 2
-humn: 1186
-dpzz: qqzp / vmbq
-strb: 3
-rvsz: bmtm / sljg
-qcbv: 2
-rznl: jvtb * thvj
-jjpr: 2
-fgsn: 3
-crfm: qnlz + stmh
-djcl: phjc + tvnf
-wndq: 2
-mrdr: vdqq / rbvd
-vnnb: 5
-rlhz: 2
-lrgr: qhtf + tjfj
-pzsl: hdjs / lgzp
-frfh: bfzm - ftpj
-pbvl: pbjp - pcst
-cgbq: 5
-svhs: zrbz + thwc
+jcpq: hjmh + wwhp
+fqss: jgpt * sgrn
+dbfb: nhwd * tzzw
+lrtt: 7
+whjf: vbmh + pqwf
+lmrz: 2
+bcbg: bbll * nbsm
+twbn: 19
+chmd: 3
+vtdt: 5
+jhrz: 11
+tvzh: 3
+vbqt: 2
+fwqc: czfc - rrzv
+ltmj: 5
+hdfz: dhtf / fjmd
+glfw: 3
+wsjt: hcwd * bbdf
+jrpm: 4
+vgmt: lfbg + wfps
+nwjp: lfbm / fbgq
+qlrc: 2
+bhcl: 3
+qmsm: mrbz / nlwl
+nhvw: 5
+ndfm: lhlp * bhcl
+lgrv: lzfz + tlsq
+bvwd: 2
+gtgv: snvw / jtmt
+ttrs: 2
+pgpb: bhmj * nssh
+qrnh: bmvj + zhth
+prhw: lpbs * dqbq
+jmqd: 4
+rqjg: 3
+hvdj: vwqb + qgnt
+bnlg: 3
+pmpl: 2
+cwqv: 14
+gzwc: 3
+tnbb: 2
+jdlt: hzpm / lnwp
+sfqj: 4
+bzdc: qsjj * rfwp
+vmnl: qbrf / mpdd
+mdmd: 2
+bbhm: 7
+vsmd: btmp * hgmr
+hccl: gdzl / trfr
+pvtr: 9
+dmwb: slwq + qbqs
+qqhs: hqft + gdvz
+dtpc: rgrf + rftg
+bdwd: 13
+grlf: qcrv * bbhq
+pzlw: 5
+hjqb: 2
+bgvq: hwtj + ltzc
+vrzd: 4
+zqmf: qfzj - msnn
+mgtt: bbhm * fpvb
+tbzr: 3
+ndhs: tnlj + hdvz
+qzfj: 4
+vtmn: tqmb * bbvl
+znnf: rvbv * rscn
+lncs: qzsj - ngjc
+ntgl: 5
+jpsg: 7
+cjbf: fzwg + rsqm
+djfz: vjlz + hhtb
+ztdq: 5
+qpdh: 3
+qmrq: 2
+qzwt: 3
+cwvj: 17
+cmnh: 3
+dzqj: 6
+bdfs: tghr + mwhf
+lndz: 7
+lbpg: 4
+vcgb: glnl * blwr
+hrwm: 2
+rvwz: lshr + lnmz
+vpwg: 16
+wslc: bdcv * jdrn
+jtqr: qvds + pdsj
+zmqr: lhpr * qldd
+fprp: 11
+jqrh: 2
+vnvw: 2
+vlss: 2
+qpgm: whhb * vmrr
+wmzq: spwg / wghp
+qjqr: dtrf - rlzd
+qpbl: 5
+qbhd: pjbm * sjwq
+vnmd: gjgs * ghhj
+nsjz: jbqr + vhzd
+wfmc: jnwq / vnbp
+mdmv: mvns + vdjc
+hcjw: rsfb * rvfw
+nwmp: hrwm * qfcf
+gwmn: 5
+zhss: 3
+qgpl: 10
+pfnd: sqjf * fmjh
+rsfb: nvhd / tfcr
+clrl: 2
+vnrf: 3
+hzgf: 3
+dhqz: sdpp + fdtp
+hscz: 2
+brzt: 18
+qnhh: zzfj + hgtp
+lgzs: 5
+zvhs: hdsp * zwff
+dzfr: 2
+wzlh: 2
+lnbr: 8
+vzqg: 3
+mhcm: 14
+mhsz: gftz + zsqb
+jwtg: lqgn + gqtd
+qbzh: 5
+slpf: 2
+pzpz: 4
+jjzv: brwm * rgfr
+zfzt: 5
+mmml: rgvf * tnbr
+llnc: 2
+vsqp: pjmr + cmlh
+sjbj: ppvc * gsjq
+hfvv: wslc - whqf
+rthw: 11
+bldf: nmrt * fldp
+nntd: 6
+jnzb: csfh * rfmr
+dlfd: fjds * ltld
+vhht: 3
+mfbs: rmdr + ftsd
+dbqm: vsvb + zptg
+wshh: 4
+vjln: 2
+stzh: wrpm * qtlm
+hqrm: mlsc * jpsg
+swcq: 2
+ndgc: 7
+fmvz: hbbq * czwg
+gqcz: 13
+ztdn: tnmd + npqp
+cpnv: nbqm / tgtg
+mpbs: 2
+cmtt: 4
+rrzv: nnfq + cmtt
+vdgf: mqcq * qhvn
+wzrt: lngv - zpfz
+hzcm: rsnb * vpll
+qtdg: fbfh + wngv
+gnfz: dwsp + dfzf
+ndvf: 19
+bdfc: qgff + tlhq
+zjvw: btsb - trgm
+wtmt: wtqc * pmtw
+lvcm: 5
+rnwt: nwpf * qgzj
+pzgh: 2
+gnwb: 7
+bdbh: dbmd * vbgc
+gphc: cdlq * tbzt
+fmjh: 2
+rmpd: 12
+bgjj: 11
+qpqh: tzds + hjzv
+dvtc: zfzt + slht
+fwzp: 3
+hvtg: 4
+bzhc: bhlh * fqvz
+npbc: fmvh + hwrj
+bfcq: jrmq * clwh
+bbbm: tmbj * cjfg
+dhdz: vcrt * tsbj
+hgzm: 2
+whfd: htzb + zfgc
+lttm: 2
+lrnh: 5
+hnst: sbbv * bjhh
+vbjz: sldf * gwwf
+gqmp: 5
+szbv: rjdm + jttj
+zjrv: dhhw * pdtj
+qmtz: zqvq * zdjn
+cfch: twbn + pgbb
+ttfc: lmvh * wmbv
+jwnt: lmrz * svfr
+nqhm: 13
+qnwn: czwj / hgmg
+gcds: 5
+thjf: rwns * nczd
+ztbw: rlcm + vsrf
+gnfc: 3
+fqmn: 13
+fglb: lcpf * cgqs
+sltt: nztr * hpnp
+fttp: 2
+nsfp: zlvt + qzzm
+zhth: lqld + bvww
+tght: cvff * wszs
+rhqz: 2
+gjdc: btfw + njcc
+dphc: zhvf + fvlq
+cswj: plvg - fmth
+jnwq: bdnr * fvct
+cngl: 8
+snjd: 9
+jcng: 2
+rstn: nfbt + tsgb
+shzb: mfmv * dmgs
+ndlf: ngfz + gbpd
+vcrl: lswr / rrbl
+pjmr: tmnn - mwgb
+nwrq: nsfp * mqng
+drml: 4
+rjwg: qgpl + fjnt
+qtfw: 4
+dqnm: gtcw * bjbt
+cnmh: dwph * tqzf
+szdh: ddbh * bdfc
+zbnv: tjnv * qlfg
+glnl: cgcm + wjsb
+gbjm: tnzz * dmfw
+rjsj: gszl * bshw
+cjrh: wjrt * gzwc
+snzb: thgv * bfln
+hwpq: 2
+rsqv: 2
+qgff: ffdf * tcfw
+lhvj: 5
+vrcg: nwjp + bqtb
+tlsc: 3
+wltb: snvj * prqz
+rsrb: 2
+hhch: 5
+pbfn: hhch * mdbh
+hcgs: 18
+hvjb: cmql + mgtt
+wsmd: 2
+rjtc: 2
+ctjg: pnqn + dfwh
+gflj: fggm * hljd
+glzb: vpcf + vlmj
+btrb: nzds * rhtd
+ptrb: 2
+zfrq: 5
+sbcs: 2
+tnhf: 2
+dgbn: 2
+hfch: 11
+zwgp: 2
+rnsn: 3
+psjq: 6
+jmln: 9
+mgnw: 4
+hcsf: hzcm / dpcj
+fqjt: qtbp + nfcp
+jlwb: dvrg * wwsc
+rgrf: pzcv + cfzn
+chth: tlgz * rgnt
+trqf: zmhp * ltwn
+cphq: 2
+mnrt: qqjf + fwlc
+cqtt: vqws * dhjp
+mjms: gwsq + glzb
+ffbj: 2
+hwtj: wgss + hzmw
+bfct: jszs / ltbc
+zlvt: 18
+lldv: rbgm + dgwm
+wlcr: vdgf + gllg
+hljd: 2
+sjpq: 1
+bvzm: qbhd - rttm
+gmvc: rpzm * nntp
+fvzh: 14
+trmz: tqqh * vpff
+prtw: 20
+pvvt: hlzl + dlmt
+qmdj: nmcr + spcv
+nlwf: pqfh * csct
+bqgb: 4
+bvnq: mztw * cbnw
+sdfb: swwc + dzhw
+cwmz: 2
+swwc: stcn / wdqz
+zfgc: jmnh * mdmm
+ltdh: 3
+jwdv: zfcr * dhjw
+hddn: fmjl * sptt
+bsfr: wtmt + fwfq
+rzwp: 5
+zzfj: 6
+bbwp: tflh + jtcj
+rmbr: snjd + qwwh
+nvsf: mhsb + rscg
+fwzc: shtm - mvmw
+njsw: dccg * mzvs
+rlzd: crpd + tstq
+rbcb: czbw - tqpv
+cnlh: dhtj * bpjv
+rlcm: 1
+twqn: 3
+csvm: 7
+fhqw: qcbc / rsrb
+vllt: 3
+wgvh: ppzb + zmss
+jmnh: wzww + vqdr
+pgsd: 2
+whhb: vlpr * nzzw
+fnrq: dlfd - tjjh
+ttcb: qrff * gphc
+sglf: mjgq * dtpc
+mhtn: djhj * lbpg
+vvmd: 2
+qctq: lncs + tqjz
+ltvl: 12
+cmsl: qgbs + qtvs
+gnhm: brvq + vldd
+qsdz: 3
+dnqf: 3
+lcbh: 8
+spnd: 5
+wpzc: 11
+pjsf: qzpn * rzwp
+rhht: qtfw + nhld
+fgbl: 15
+fqvz: zhfh + vfmq
+dbmf: 3
+flwj: 4
+rmzh: 3
+rjgc: 4
+snpq: cfch + fjtz
+zqjr: 2
+htsd: 5
+qjqd: mzvc + wwmv
+gfpc: 2
+dfrp: lrmn * llql
+ppvh: 2
+rmhm: vnhf * pmlw
+vhgd: zjfs * zgtw
+rfrr: 5
+zhcf: ffdv * qzqh
+rmzr: bcbd + gqcb
+qvfb: trqs * njgp
+qgmr: 5
+sncv: vjnf * gszb
+cwmw: 3
+wtnn: vpbr - fcfv
+zfvc: 13
+gztr: dcvd - dgnd
+sptr: 4
+hwrr: dbfb + rjsj
+zsrr: hfvv + pfwc
+slrq: 2
+twrn: 2
+qpsr: 7
+fdjt: 3
+pwvl: ptcl + fwqh
+csct: 7
+vtcl: jbwr + rbdh
+phlq: 2
+ntpl: wnnc * pwjn
+zzpr: 9
+bpjv: 7
+hpzw: jqss * zfdd
+lbdb: 2
+bvbp: 4
+gllg: wlcn * tqzz
+hdlj: 1
+vdgc: 14
+dbbw: twmt * vhgd
+gpdv: 2
+plfn: cwmz * gvlz
+ldhd: wsgj * ffdn
+cgtp: 2
+bbqc: 4
+znsz: pngn * qvsp
+dcjp: tcjp + lzgf
+wnml: 14
+gbcl: bgzs + gzvn
+mgjb: 4
+tcvr: 5
+nhtm: 3
+jmnv: rvmz + bvzm
+vncg: dnzt + strv
+ddff: 10
+twfn: qbnc * tvtg
+zjzs: 2
+vgqq: 4
+mwnv: 2
+cdlq: 3
+tvtg: 5
+wpnd: pqvq + qqhs
+dtbc: jwtj * vsqp
+mjgq: 13
+ffqb: 8
+gbhm: 3
+hbtg: mjcr * mqmq
+zgtw: qnzf - nlqv
+lsdg: 2
+qlfg: 3
+grff: 5
+jbjl: 2
+qwsj: 3
+zhfh: 6
+psnv: 3
+zfzp: 12
+vhzd: 17
+nnqn: stfm * nmgp
+gght: hscz * lrtg
+rtzl: qhhc * rcbb
+gcwd: 2
+tssg: 2
+qsgr: sgcc * wpdr
+jhdm: mjdp * fjlh
+lnmz: dfwg + vcbz
+hmnh: wchg / qhgc
+bwbl: 1
+bgql: 4
+bjbt: hhbl + dbpn
+nhpv: 2
+lrdv: rzfl + hwdd
+hjbf: 3
+vwng: 4
+vmrc: hgff * tbjv
+hvpt: rqwt + pfnq
+lwqz: hvww / zrwf
+rqzl: 2
+qzqg: 2
+zhlj: ndsm / rvnn
+lstf: hfws * cwvj
+wtqc: 9
+jzpr: qwwg * pzgh
+lwwb: 2
+wgqs: rnws / mvmf
+pcjl: 15
+wrfq: 2
+njsn: jmln + mrgs
+vbhn: rmhm + jjns
+zmss: 5
+vmrr: 3
+vcrt: wpbb * hvgq
+qnvz: slnd * dlqv
+zwbl: 4
+fjtz: 6
+vgqs: 2
+zdnj: 2
+flrj: 9
+fzrv: 5
+qfmh: vssc + hccl
+ljpr: 5
+djqv: 2
+jzwp: 2
+mwhf: fdvq * ssps
+lqgn: tzlp + fnfs
+pgbb: 4
+nfwb: dsgj * bgvq
+cscp: 2
+ltld: 3
+zhvf: 3
+rfwp: 3
+sswd: ftlh + fplh
+gbvl: 1
+brps: 2
+pnqn: 4
+vfnh: 2
+dqbq: 3
+tzpt: 1
+jpvl: 2
+cbrg: 4
+csfh: bgwv + mjjz
+tcqg: rbwf + vpwg
+ztvc: 1
+ngng: mdbg * nwsd
+dqsh: pzlw * wcjj
+dzjq: 4
+bjhh: 2
+vlts: qwfj * mlfd
+vtgm: 4
+gqcb: wclj * lhrp
+pqfp: bcbv + lhbr
+cqcm: cmpm * wmfv
+qbhr: wnml * cbzs
+brhh: nhtm * rfvr
+hgmr: 2
+pgrq: hdtp + psws
+pftt: 2
+gztw: 3
+gtqm: qczq + dzdq
+wwpw: qqtj * rzml
+vltb: 2
+pgvp: tssg * jnbv
+cghm: tvsv * dbwp
+lhmq: 2
+vlmj: bzdc + bssz
+mcvt: 2
+hhsz: dtpg * prbf
+ppzb: 1
+czbc: tczr + slpf
+nnzg: 4
+lwtd: vzmc * ttwd
+pbln: vgvp * gjbd
+ffrs: 2
+vqqh: zhrn / zgdg
+grqp: 2
+hbrq: jfmw * djqv
+tqnd: 6
+rmvl: 8
+jfpz: jqrh * jjmv
+rmwh: 11
+lvzt: fglb - fqss
+bdcr: 4
+lzfz: wmdq - shql
+mpvb: vprd - vcfn
+ccch: 18
+bzlt: 3
+zrfv: 5
+ggdg: cphq * dmbs
+gjgm: pzdl * blzn
+cmpm: 5
+hbtf: 2
+wlzl: czdw * nnsj
+fdtp: qgmr + wphf
+mthm: jmcg + dlfj
+dfwh: 3
+ntvg: 17
+rzbs: lnsv * pmtp
+ngsv: gqws * vshz
+hhbl: sgbt * wgzn
+jdgh: wrbt / pmfs
+qtvs: mfrs * fvfs
+bnvt: 5
+dlbt: 4
+phqq: nttr + zlzq
+jqbl: 3
+cfzn: 13
+dszn: 5
+qtgg: 1
+zmmp: dhwc - rwss
+zbhp: cqrh + jmnv
+tblf: njjw / jpvl
+ndjh: 3
+hztf: 3
+rrbw: 2
+dqfd: 3
+vvzt: prcj + hrhl
+pspq: dsvz * bqcz
+drnl: bpsz * ssdw
+wclj: 15
+lmmw: rwpg * dzhz
+qqtj: 3
+zpfn: dbqm + dbrd
+cbnw: 11
+qcvv: vfzp * jwdv
+zjmw: zflg + bzrn
+pfnq: 1
+mmbt: 2
+wlcn: pwbl * dzqj
+jhtc: 3
+qbdz: 8
+mfrs: nwfq * bvwd
+hgbw: 20
+qrsq: ggvl + mfbs
+mbbm: jjcl * gncw
+qzhw: hjpd - jzvr
+dlqv: 7
+bwsq: mpss + jmgj
+vqws: 2
+qdqr: nfgv * rglv
+dchw: 3
+wrpm: 3
+fzwg: lfcq * bbqc
+lpdr: jgwr * stvz
+mmsh: 3
+jglm: 2
+frjt: nqhm * vddb
+hzvv: zblw + njrm
+hzwp: 3
+czzm: 1
+jqng: gbhn + tqvl
+qvhf: rrbw + zntq
+dfzz: szsh + cwch
+lmnn: jvbh * fdjt
+hsrf: mbps / ptpl
+wdqz: 5
+cbrv: 7
+dmfw: gdhf + mtzt
+jmll: 2
+fhfg: zqdl - dfsw
+ntmv: 19
+rnwp: hfdc + vpqp
+lwbq: jswd * gcds
+mjcr: jbtb + gmwl
+zsfr: zprb + mqtv
+rvnn: 2
+vbfz: pqgb * mcmj
+fzvw: dfrp * fmvz
+nvmb: mzdb * tzqz
+fvlq: 4
+nwss: 5
+drzg: jtlf + mhvn
+snzj: pgvp / hmrd
+hwgh: 3
+wszh: nqbm * hrtp
+mdvf: wpds * qhgh
+cqqr: bstf - mwgt
+cjgp: hrzb + jdlt
+wwmv: hwrr + rzqd
+tgzw: 5
+gbwj: zvgh * wvfg
+jmcg: wcvt * npwq
+jfpf: plqr + ldhd
+sdtm: tnbb * nmdg
+ddlb: zcrl / bglm
+qbsh: 9
+lcdn: 9
+zrff: 2
+gtzb: fqrm + grqp
+snbb: 2
+wwss: 11
+vpvz: 5
+bhzf: pgpb * tmwt
+pnnt: 6
+cfgq: 3
+qtbp: 4
+bhfj: 13
+vnbp: 2
+rlrr: 4
+dcwm: gchz + prgh
+hcbt: 2
+tsgb: 4
+lrtg: 5
+pqgb: 3
+pvpm: 1
+fplh: bcdt * zrnf
+stcn: snzj * cvqw
+csgw: gjzp / lnpw
+zfvz: 13
+nthv: 5
+cthp: 10
+jmgj: 4
+mnfq: 2
+lvpz: 19
+rgrw: 2
+whtn: 5
+gcjm: gvss * dlbf
+tgfs: cljj * zfdg
+rmdr: bzcl * szmh
+vhpg: ndph + nvmb
+pmbl: hzls + gdjg
+gpsj: 13
+fnfs: pcjl + llqn
+tpzc: 3
+phwf: tdfb + dzdf
+tvwc: 1
+gqsd: dcwm * bscb
+nhld: 3
+tmzz: 2
+lnnq: 14
+cnww: gcrr * wnsj
+mljd: pfvv - fvfc
+bqcz: 5
+dpcj: 2
+cvgg: 3
+sdjz: 6
+fhdl: 3
+qvrg: 1
+llbf: 2
+gftz: lsvp * sswd
+bdcv: 9
+sjgf: bjwz * wdhn
+nhrq: tttm + ltmj
+qftw: vcdg * wnlr
+zjnw: fhvw / qptt
+wvvn: jzrg * nggs
+dbrd: dnmq * twgf
+lmvh: 14
+zjfs: 3
+mqcj: fbzr * pzfd
+bqbm: 2
+tcjp: 2
+ncsp: 2
+dgzg: 2
+czrw: mrzj * tptp
+fbfh: gnwb * gdww
+frsc: qfjv / rfvv
+wnjd: pqvv + cthp
+ctqj: vrcs + tnbj
+cnsr: 5
+hpzq: 4
+jztg: tvzz - tgzw
+ngfz: qgwz + wdwg
+dznm: gztw + srqs
+wdwg: nsgd * jdth
+bfnt: 3
+vcjv: hrdh + nrww
+jpgb: 2
+czdw: ppcf * mthg
+ftft: 3
+lfbg: qvcr + drnl
+wsgj: 11
+hmwp: 2
+cmlh: prtw + fqjt
+fspt: tnwz + jttq
+zzvp: crrl + zhpb
+wgrl: 10
+nczd: lgdv + tmfb
+nssh: 3
+pdgl: vhht * zmth
+tqlz: 5
+slnd: 2
+tftj: zpfn + crqs
+htrg: npvz / cghg
+fmth: 1
+vlcl: 3
+zmcz: mbqp * gmhw
+gmqt: nsjz + ppvr
+wgpc: 5
+wfts: fwzp * pgrq
+ccfq: gnfc * fjrv
+tmnn: gpmz + pvqj
+vnpf: 6
+lqcb: 13
+tsbm: lfnn / cscp
+rhtd: 2
+lwfm: qtgg + jvfj
+nztr: 4
+humn: 721
+zrtr: 3
+wmdq: vhmw * mpvb
+sqfw: 2
+nntp: 3
+jczp: 5
+gjgr: ngsz + tznr
+vddb: 7
+cqpj: lpvq * lbjf
+vhst: bmjj + zrpn
+hshd: 4
+vgdr: 15
+rpgs: 6
+tmbj: jqbl * bnfw
+llqn: vfnh * rjgc
+hrbm: zcvv + nbrt
+tmzp: 2
+hwbf: 3
+vprd: ldmv + ldlt
+qpts: zlpv + czrw
+jlgj: 3
+pzwm: 4
+qmzb: wlcc + dcbm
+ztbc: 4
+vtsh: jvfm * bglc
+wmfv: 2
+mbps: dztc + tplh
+pslj: hvdr * fqfv
+mtzt: 4
+hwdd: dmhb * tnmj
+pwjq: 3
+tcsl: chbm + nbfl
+gvnz: pbln / mbmd
+zvhh: 1
+nbch: hnbf - dqsh
+sbbv: dmmr / cgzf
+vwmb: mdvf + bcwn
+dnqh: 5
+wfhm: tpdj + vlcl
+hrhl: vvmd * dbns
+lrhp: shhc + gtwp
+wzzv: pwpl * gvnb
+qhhr: 15
+dclt: zbsm + brdn
+rbdh: 14
+bjsd: 15
+ltwn: 4
+nbrn: ttvd * tmzp
+lrmn: 2
+swtp: jzpr + bsrr
+jpsm: 2
+btfw: 6
+rvjq: lqjn + vpgp
+mqrf: nmcj + msfn
+dncn: qsgr - lrjm
+mwsp: 11
+zcpw: 2
+qbnc: 2
+ssps: 3
+rjqm: cghs * jzdv
+tjjl: ghtd + cbcf
+hjmn: cpzp + hcvz
+zgmg: btbb * pqwr
+mflh: 5
+tqmb: wmzq + clqj
+lflw: 2
+vhjz: jbfl * qnvz
+svvl: 3
+qcgt: ztdn - zjtq
+zptg: vtdt * rwrh
+qcrv: 3
+tnmj: 4
+frpz: 4
+brbg: 4
+bgmc: wcfz + pvwn
+qltz: 5
+root: hppd + czdp
+crwj: pdqp + sjgf
+srnz: 5
+fqrm: cwmw * sbrn
+rnqg: pnvj - zvhh
+pflr: bgmc + qnhh
+cbnq: bdwd + jzhp
+sbzp: 3
+mghf: 4
+hvsz: 13
+hcjq: jhbj + ztqz
+mznv: 6
+slcv: grst + qzbv
+gmsz: pbcv * ttcb
+wgmq: qpqd * dbvm
+zqdl: 7
+dbns: ldgn + vsdt
+hgtp: qwnd * dslw
+ddbh: dcrc + mthm
+npjg: 6
+zbjp: cntb * gnhm
+ffbn: 2
+mdqz: smmq / qhvs
+pzfd: bwsq * rdsv
+bdzl: 7
+ftwr: 4
+fwfq: vbfz + snpq
+gwsq: 3
+ngzn: mgdb + fhqw
+blzn: zcws * fttp
+jsdt: jfzh + dwdv
+cvrf: btbd * dmrz
+lzgf: 4
+hgjq: 3
+gnfg: qnqz * qwsj
+wnfd: rqjg * jnzb
+nhwd: 5
+vvvs: 4
+gdsd: pvgt / rvqh
+mllb: brjj + vcjv
+brqw: gwlf * nzpt
+dwph: mslq - jfjf
+hwqr: 2
+dbnv: jnsh - gjgr
+pmhs: mngp + qdhg
+cfwz: jltc + bngt
+gtwp: zvmf + jmnz
+ptcl: 1
+ctmt: 3
+qmjh: 4
+fcmr: jzlh * zrzv
+mzqt: 3
+cbzs: 2
+thgv: bfhg + bzts
+rvpf: 2
+gbjw: zmsn * wwmm
+jpjv: 9
+rglj: lcfj + nbch
+rzgq: 6
+mnld: 2
+rlmt: cntz + wnjd
+rrbl: 5
+trmd: 3
+mfqp: jcjj * tcqg
+thds: gmvc + tzpt
+fdvq: 7
+hdqg: 12
+bssg: vsmd * hptn
+dmnl: wzzv + lldv
+mngp: hbbd * mdmd
 hptn: 2
-jqvd: 2
-cpjc: mllc * qvqg
-vrpp: srmg * svpv
-rmff: 16
-rlpq: qzgf * zwbm
-jrmb: 10
-wrjv: ndhl + ljrp
-dnwg: pphg + sjhq
-vmtz: 3
-grsb: 3
-zvbp: qmst * ntlz
-vqhz: nlld / mgrt
-zcwf: 2
-sjlv: 11
-fdtc: vrbg * ndjj
-ppgz: gjmm - svsg
-jpnt: 3
-zsmg: dbgp + pmdr
-ngwp: jqmh * sggt
-wrjg: gtpb * jzfb
-jvgj: 4
-cfqm: gnmz * jjvs
-gwhz: 17
-rlvj: 2
-vmgc: rggw + gdjt
-ndpb: zfpn * wgsr
-lvlc: 3
-gwbm: mhdp * lzcg
-glwp: 3
-tdql: 14
-svcz: zlbd - bsmr
-lwpz: 2
-sdsg: 2
-ndjj: slpj * jgdd
-qctt: bljz + ndhn
-fstz: mjwg * gwgh
-pgmg: dhzz * csqs
-nppq: 2
-wfsc: 9
-ttzz: 4
-ddsb: hwch * mnnz
-fjbp: nfvm * sqlr
-lgwh: 16
-lnmh: fwjs + vpvm
-vblm: ffbn * dhgq
-rmtc: 3
-vvhm: 3
-fmcb: 2
-cslb: 4
-hlwz: pchh + gnhd
-cdpm: dtsl * rncc
-fvms: 4
-tqln: bdlt * vqcw
-ztgh: 2
-vwmm: 3
-pcrf: 3
-lwsr: 2
-nfdj: lvmz + nqrb
-gpvd: bgqw + swgs
-ttsw: 4
-vfzr: cqhh + thcg
-npmb: wgsn * dpdr
-shmn: 3
-pdnl: lztq * bjrm
-gpbn: 6
-qvrr: rpsq * mgws
-dhgq: zvbp - qbls
-qtjq: 4
-pjvw: dhns / pbwb
-sdbz: 11
-zcmp: 3
-thwc: fdmv + ghzr
-nlnj: tljw + cbdd
-vtld: nbqt + pvcs
-zjlw: cpch + pmsd
-qvmb: 8
-zvsl: 6
-fvlt: bqtf + nsbg
-vlbl: mrbf * bmgc
-ngsv: 17
-zhtr: 10
-gbnz: 13
-jvjb: 20
-dqmq: 4
-lzrc: lzbc * rbmt
-qgph: dwhr * ccwb
-nvps: 20
-fhrr: 3
-gzws: 2
-vdhq: qglq + dplj
-tzqv: 3
-vzdv: 2
-hlvt: 2
-rqvs: 2
-rvfd: 10
-rdgj: 2
-zzgh: gfvq + gdsh
-hnsq: 1
-nvct: fvms * bcjg
-llgb: cgwr + qjsp
-zfzh: 19
-wrbl: 2
-zlpm: svsm * dgbt
-tpwm: 2
-gwzw: 2
-vsdq: 3
-lnff: zgjq * pswn
-rcdv: 11
-fgwt: 2
-zsth: cmjv * zlld
-jfgs: dmsb * lcqc
-bzth: dtlg + dlnq
-cnqf: 4
-ldqw: cznt * dwhw
-btlg: 3
-fgpm: zglw + psgm
-hlfn: 11
-jtbc: fcjz / zssg
-dlcn: 3
-hfvw: 2
-fqlt: 1
-clsc: bbgc + clhz
-szpf: 7
-hnpq: 2
-nldj: zgbv * tqmq
-qwhr: jzwn * nmjp
-qfch: vvjz * dqfh
-brgm: vlvc + nbbs
-mrcw: wbwg * ntsh
-vfcr: fzbt + tdvs
-rqrl: jzwl * mdlv
-zsfn: 4
-nqwm: 4
-hlrs: grsb * ftnd
-vvmd: ccvn - gmjr
-jcdz: 2
-nmst: 3
-sjjd: pjtc - mqnn
-mcrq: lngn / vppg
-hjbw: wbfb + lnff
-htfm: fcct / rqvs
-qsph: tzjh + wdzl
-wvsr: 10
-hvpc: zcjt * bgmf
-svpv: fvmr - vvtz
-npdf: 2
-pgrd: scwc * lmmc
-vfgb: lsdn * wvgl
-nnlp: cfvc * vddv
-mgrt: 8
-szqw: fnfb * rncr
-wnfg: crnc + njfn
-mwcc: 20
-zcbs: 1
-zgsw: 9
-gblj: 2
-ddnr: 5
-sgnq: 3
-sjsv: mdds + fzdj
-cwnj: 6
-qnhd: hmwj + ljvv
-tsgg: dhjh * fnbh
-npzg: rvqg * ltvm
-jvhz: vppf * sdsg
-ctrq: pjjs * rbvb
-bbtl: 2
-ljrp: lchn + dqcl
-rgcw: bzmf / bdpt
-qjjz: htzq * jzwh
-hcdq: 3
-ncvf: 5
-dnbg: vbfz + crzr
-wnfq: 2
-ngcl: grcc * jqsh
-gfvq: rjdf * mmhp
-ntnd: 5
-fnfb: fvqc + drgb
-spbg: ntlt * sjgb
-fcjz: brfp * glww
-zdrf: 3
-scvh: wqdz - zwsq
-fmwf: wjds + mtft
-qmgq: 2
-vpvm: qsph + vrsj
-szrl: 7
-vlzn: wrjf * bbtl
-qcrb: 6
-znjh: 3
-lztq: 11
-hmph: ngpv + jfvn
-shqw: 4
-crnc: bssq / wrqj
-nctr: 16
-tmzj: vfcr - mtnp
-qhtf: sbdm * vzbf
-jlsb: rswb / nczz
-ntlz: zzpz / ptsl
-hjnt: 5
-pmvv: 2
-qszf: 2
-vwbz: 5
-njfn: pjvw / gbjc
-pbbc: rbdb + hdrn
-ntpr: gdmh + znvf
-zpjm: 2
-lmtw: 5
-ppqj: rpmv * swtb
-sjtj: qdlv + rhwh
-jncp: bvcl * mvdh
-dcrs: 4
-qmfd: dwrb + qdlc
-lbff: nzzs + msbv
-qwtg: jgpw * szqw
-shcm: vjzr + lbdc
-jzwv: mhms * mdqj
-vghl: vwcr * qcrg
-zgnd: 6
-cbwh: dlcn * rrtj
-ljvr: 4
-gfnw: lfnv * mrlq
-gtpb: 3
-wqpf: 20
-zdpd: 7
-dgbl: bjfj / rjgt
-jjvg: zsfn * hnps
-jspm: sfbc + pnzs
+pbpf: 2
+hbbd: 3
+jflp: tshp - bwdn
+sgtj: dvnn - sbzd
+ldlr: 2
+lmrl: zzpp * vlfp
+ltht: 9
+smfn: 2
+vshz: jfpt * tgnl
+dhjw: 5
+nvtm: 2
+pvnc: zhgz + mmmq
+ltfn: cvhr * twqn
+cpzc: ntwf * lhtf
+hjvp: 5
+mthw: vmrc + smpr
+jfgq: 2
+qzbv: 13
+tznr: 15
+bwqn: 3
+wghp: 2
+dwhq: 2
+nltl: 3
+strv: 1
+cqws: 3
+qbcg: pgbh * zzvp
+mgfn: qmzb + cqcm
+gmbs: 11
+vbgj: 4
+crqs: cfjg + whmn
+szsh: ttfc + blsf
+trqs: 14
+ngsz: sjdd / pmpl
+djvg: cpnv + tvrv
+lwbb: 3
+gzch: 14
+ghtd: 5
+dwwv: jhzj * dhgd
+tgff: bjpv - rltm
+hhqb: hmnm + zmrf
+twmt: dmqv * gjcw
+jbqr: bdsp + wgdr
+vhmw: 5
+dpqr: qmjh * gfvf
+plrv: gczc / tmcj
+bncf: 2
+gjgs: 19
+bbtr: sdtm + fhtv
+lwwj: lhvj + mdbr
+srtj: 4
+tmwt: 6
+nfbt: 3
+bdvg: 13
+czbw: 17
+sgjl: gtzb * qnwm
+dmpl: 3
+qpqd: 3
+rtcm: 5
+dvrg: ggml + sjbj
+zzrq: wfmw + lrhp
+mflt: 2
+sfvc: 6
+jtnf: 4
+cgzf: 3
+hrbj: 3
+vprg: 14
+gslf: 3
+fvfj: 3
+zcfz: 6
+gnwt: 2
+rsqm: 5
+zblw: cbtd + pnnt
+hpqc: mzqt * nfzb
+tbjv: 5
+gbzp: wjrb * tqwn
+ttfw: jlnn - mthw
+nnsh: 11
+jbtb: 9
+qpmc: 9
+mhvn: 10
+bnrr: dqwn * zcfz
+qbzf: 3
+dsvv: qzhw / ffbn
+dsvz: 2
+twjr: 2
+rrvj: lgqf * wtlf
+trfs: 2
+cmnq: 5
+mrpz: mhzh * dbmf
+spcv: 5
+lzrz: dpzm * wvwd
+nvtd: mbbm * pznw
+thnc: hfdb * lzdv
+gqtd: 6
+zlzq: qvqz + zfvc
+pbhs: 2
+sqzj: mrbj * jhph
+qgzj: 3
+wcfz: nqzd * crph
+jpzz: 4
+tdjl: 4
+btbd: 3
+jdlj: 2
+hvlt: sglv - zfzp
+zssf: wrnn * ndvf
+zbcs: 4
+wngv: twfn * bvnq
+lnsv: vtcl * bbdh
+dmpf: vnmd + jnsf
+hltd: 4
+jfzh: 2
+bccw: 2
+bnrb: njsw * lwqz
+frst: rcnm * ccfq
+vzrs: nbrn / pwjq
+npnt: 4
+jqbh: sltt + wqdp
+bzcl: 3
+qggf: hlwh * crdm
+nbsm: 2
+fzqs: 3
+mgdb: jgnr * hcbt
+ggpd: 6
+zmhp: 2
+hgvq: rnwt - pjss
+nttr: 5
+qhlp: wmzg * zlmz
+nmwc: twwv * rpwg
+vpff: 4
+hjqh: gscz + nqgd
+vnsp: vjsg + crwb
+gncw: 3
+dcvp: slfg * pgsd
+scvs: tbzr * mncm
+nzzh: mczh * wrlb
+rnwm: hcgp / nvtm
+qncm: rjdl * lssr
+gwws: pftt * cfgg
+nlqv: 5
+zfbp: 2
+dzdf: fchg * jchv
+qbrf: dctw + pbfn
+lggg: ttds + lgrv
+hpnp: 6
+mfnj: 2
+wvfg: 2
+cqfg: 5
+gztj: hgzm * qsvf
+csbg: hqhm + bfvq
+jzzh: 5
+vlpr: 3
+whsj: 3
+cmbv: rzcl + sbzz
+brjj: lcjr * zhcf
+ftlh: 11
+qgnt: mwnv + cbrg
+nmdg: 4
+sldf: 2
+zspq: swqh * mhlv
+whhl: 2
+bnfv: 14
+thrc: qctq + htqz
+bblj: qftw * mhsz
+zhtv: gbwj / zbpj
+mvjf: 3
+njzs: sljl + wpwr
+wchg: ctjg * tzrp
+dvnn: 15
+mqtv: rtwt + pnhv
+lzcp: mbqg + tfdh
+snvj: zzpg * jjmj
+qzqh: vzqg + fzqs
+bzts: cfdf * gsch
+fbmb: 2
+fhtv: wnsd + dtbs
+mwqt: fzzp + crvv
+bvvd: pbbp + ngzn
+sqgr: hjqh * bqfr
+pnhv: cqws * qhnp
+hpcs: vhst * gbsr
+nfcp: njsn + qqvl
+jgsv: dfnc / jrpm
+hdrp: 2
+dmbs: clvh - ltht
+mbqg: qzvh + hdlj
+tghr: 10
+whmn: sqcr + lpdr
+nsvf: 17
+twns: vllt * dmpf
+gdjg: bjrj * wldt
+fjrv: 11
+czwj: ctlr * wnmh
+crwb: zqmf * whfd
+ddtn: 2
+tfcr: 2
+lgqf: cjvp + mbdd
+dpls: mqcj + htrg
+fwmw: 2
+fjng: 5
+slbb: 4
+mthg: 3
+vjsg: gpjc * twns
+drnt: nwrq - dwfp
+lhbr: dpjv + vzfl
+nfgv: vbrh * lpmh
+lzvh: prwp / bvbp
+njqv: 4
+fzwh: vcrs + mgsd
+fpgw: zzrq / wsmd
+mhcd: trmd + gzcn
+lbjf: 7
+dwfp: nnfb * chrh
+sztg: zbnv + ctbm
+hzhf: 7
+jhzj: mnwq * wlqd
+wmbv: 5
+gzsf: 2
+jjch: dsjn * qpgm
+hfdb: 7
+nlwl: 3
+wnjm: bhrd + sgjl
+cwvp: bbpl * nzhs
+hdjh: 11
+bbpl: qqmc * snmj
+rtmn: 9
+ftpn: lrql - nrrj
+npwq: 6
+mbqp: 2
+vvhl: mcfl * vpvb
+cdmg: qmnw + dltq
+mcfl: ztvl * flrq
+qlpp: wzgn + wjjd
+nwpf: bhzf + shzg
+wbbv: 3
+mmcr: ztbw * hjvp
+pblr: sjhh * hpcs
+mmmq: 9
+hhtb: 4
+whcf: ltgh * cwcg
+jjgr: 5
+nrwg: 1
+qnms: 2
+sqfb: 4
+jqtt: hvsz * twjr
+pwbl: 3
+cvhr: 2
+jrmq: 3
+bfsb: zlbt * hrsn
+trfc: 18
+rjbc: 12
+dlbf: 2
+zbpj: 2
+fwqv: 19
+bgwb: nwvw * cbrv
+hgjr: 2
+gjbd: 3
+hjzv: hdqg + lzps
+mwmv: nlnw + tbtc
+sdws: 1
+tsbj: qdbt + trwt
+rtnc: bbdm * bgwb
+qclb: vvph * drch
+mjjz: 9
+bhjq: 3
+vcbz: dncn * lldw
+mhsb: bfrd * sfqj
+szrd: mphf * hvmj
+dwvm: 1
+jgsz: 5
+qvqz: qlrc * jllq
+hgbb: vltb + tssz
+ngpw: 3
+hgff: 2
+fddz: 3
+cghg: 2
+ntdl: pgmj * trfs
+htdz: qfhf * crwj
+lfgv: 2
+mdmm: 11
+fqjf: cshv * vbjz
+qfst: sqgr + dcrf
+fbfg: scwl - cmbw
+cgvd: 2
+tstq: 1
+brcv: qtdg * sqfw
+sjwq: 5
+nmvg: pnbg + zhrb
+bpsz: 3
+clsj: 5
+qsfp: gnfg + fvhd
+chrh: 2
+wdwf: vpjv + cvhj
+zcws: 11
+lcjr: 5
+crpd: 6
+jjpv: bvms - wwjr
+mqrj: 20
+vnrz: 6
+nrrj: cqfg * qvrm
+wgjb: 3
+nljj: 5
+lhtf: tzgb / psjq
+hpdb: pgzh * vvdb
+prpb: vwng * mnbd
+lfwp: 2
+mnwq: 8
+frcq: 2
+nmrt: mztr - tjjl
+mrzq: 2
+nzqz: 19
+pmtp: nhjs * csbg
+jttj: 6
+vdsm: rhht + gmnz
+wcvt: vlqf + zjrv
+gtcw: 3
+tnnc: drpc * gpwj
+bhfb: 2
+njcc: 7
+flqq: wlcr / vnvl
+rsnb: 17
+dccg: cdlg * ggmm
+vhss: 10
+pvwn: 19
+stpv: 4
+jbwr: 5
+djsq: 16
+bwgm: cgvd * mwwt
+lnzl: 5
+rfmr: 2
+grmh: 2
+jbnf: 13
+tgnl: 5
+phmb: btdt * ntmv
+zvbj: 10
+ctdq: dnqf * swnb
+rtwt: 2
+fzdc: bqns + qnwn
+mssb: lqnc + mmcr
+dzhz: 3
+dnmq: 13
+qrgv: gztr + ltvl
+dltq: 5
+cvff: 2
+bcbv: vvhl + wlzl
+jvbh: 5
+jdrw: lmzz * gbsb
+qzzm: fwqc + qmtz
+mfmv: ztbc + jvlz
+nbsd: 3
+bglc: tdnw + brzt
+hwsb: pblp + dczv
+wmzg: 2
+mslq: jmqd * whfz
+lnvq: vqcr + rtlf
+pbhh: bflz * frpz
+twgf: 10
+qqjh: 4
+lvvt: 2
+zdjv: 2
+bstf: phlq * hqnj
+rtdf: htsd * ntzg
+zvgh: mrpz + zspq
+srwc: 5
+bwlh: bjzb * zdzj
+gscz: 3
+jdwm: 5
+rrpg: wnfd / njhn
+mwgb: 5
+vcqb: mjms / snbb
+njhn: hrlt * vnvw
+llrz: 3
+btqs: rvwz / jpsm
+dzhw: czrb * qsnc
+vqdr: fqjf / grnp
+fvfs: 6
+pqfh: 5
+zwqv: lrrd + jldf
+thpf: jdwm * dqcp
+mrzj: 4
+gjrq: 3
+zlqv: psph * rprv
+jcpz: 3
+sgrn: hcgb + ljhg
+hnps: tjlv * wsjc
+vqpf: 3
+lqjn: 2
+rgnt: 5
+zpzp: 2
+pswr: 2
+vgcf: 9
+slfg: 5
+bshw: 7
+hcgb: 5
+lfph: hnmp * bmvb
+hmrd: 2
+pmlw: mnld * gnfz
+qsjj: 7
+mfnp: 2
+vmqz: 2
+qsvf: jmdf * wgjb
+zdvp: rvjq + gmbj
+hfdc: 5
+vpbr: wtdg + qrnh
+zfmc: 1
+zlgw: wgmq * lmnn
+vtln: 2
+jldf: cmnh * rbcb
+znvs: lwwj + wvvn
+rtjd: nntd * hpzq
+sjdd: qzqg * cnww
+btsb: lmlr * gmgn
+zrvc: 3
+hrdh: sthr * hmwt
+mlhq: 7
+pmzs: zthj * whtn
+jwtj: 2
+hbbq: 4
+gpjc: cjgp - rcfm
+blzj: bpwh + ddff
+mqcq: 19
+ttvd: czgm * zhlj
+nnmv: tplb * qzfj
+zrwf: 2
+tmfh: 2
+mqmq: 11
+gnjv: 3
+gbpd: chth + wzrt
+sztf: qqbf / dbww
+hmmt: tfcn + ddjn
+snvw: jsdt * fspt
+fqfv: qhsq + swnv
+tbzt: 3
+prgr: 3
+dtpg: 5
+wqgd: 4
+qrjr: 9
+vqrw: 6
+mzvc: qhzz * wgqs
+jltc: 12
+lqld: ffrs * qpbl
+bcwn: cqqr / zzzc
+bqjn: jcqf + fvlh
+shtm: mlhh * fbdg
+lpbs: fmzc + vmnl
+jlpm: 14
+bbvl: 2
+wfdf: zfhs * ltdw
+tcnv: ggdg * wmcv
+znbn: 4
+nznr: 14
+sqtt: bltw * hvpt
+rmmb: nbsd * ndjh
+tmvt: 4
+mlgg: scnr + bblj
+jzvr: hcjq / ctqj
+nsgd: 3
+bgjp: fwqv - cjrh
+tpfs: dszn * cmsl
+tgsc: 18
+qnwm: 8
+tcfw: rpgs * fbbv
+jdth: 12
+bdnr: hvlt - qcgt
+jchs: scts * jztg
+gcns: brps * dchw
+hdrg: 2
+cjfg: rfhn + pslj
+pblp: qqwr * vbrc
+dlfg: nthv * chtn
+dwvt: 6
+sldh: 1
+cdlg: 3
+jzdv: lbqw * gjfh
+hjhj: 3
+fwlc: gztj + sqzj
+ltmq: jfpf * cmwv
+zlpf: 2
+hqcs: rtmn + mhcm
+mdbh: phmp / dsqp
+gmnz: 1
+wwhp: 2
+tgdl: 5
+cdtv: 15
+nwsd: 3
+clwh: 5
+wpbb: 2
+jsmh: jnsg * clsj
+zsqb: qvfb + zphm
+mchq: qnms * ntln
+zhrn: ldqv * rmzh
+wsqn: lnzs * npnt
+hlzl: npcf - flmc
+nlfw: hdfz * bjzd
+tsjb: dznm + qfhv
+qhvn: hcnp + bwqn
+rgqs: 2
+hjfs: scfs * mtbv
+hfws: 3
+qnrq: rglj * mqrj
+sdzn: bgjj * btdd
+vrgh: nrtr + zrjq
+hzpm: dlvh * cjnw
+mztr: wrfr * gvgc
+tczr: 5
+cgqs: 3
+qfjv: zjmw * tcbw
+bqfr: fjng + swcq
+bzrn: wvqf * nlbs
+drch: 4
+tnmd: rtcm * pjsf
+lldw: bfct + lrtt
+cvrt: 5
+crdm: mhcd + qmfh
+zqgd: drnt * mfnj
+vfhr: 2
+vjlz: 4
+wrst: gcwd * cqbr
+vlqf: drzg + pmqr
+nqbm: 3
+qmcr: 7
+gtrr: 2
+zdvl: gsqp * wgpc
+hpdp: 10
+prpd: fwbj * dgtq
+lngb: 2
+csfn: 7
+ztfw: 3
+jmhn: tzzv + jnqp
+smpr: 2
+jqss: 7
+bltz: zcpw * scvs
+jsfc: mlbf / vntw
+lndq: 6
+tfcn: 12
+bqwv: djql + slft
+bnph: 1
+tvrv: hrzh * npcg
+zmrf: 1
+cshv: fftm * ggcc
+snmj: 9
+nnfq: 3
+bmvj: 13
+ccpr: 1
+zgfh: 3
+bfqg: 2
+bllq: 10
+jfjf: 1
+cfgg: 4
+gvgc: 9
+hcgp: znvs * gbgz
+tptp: 8
+vgjd: 2
+hgmg: nzqw * sntr
+dlpm: lwnq * qrgv
+gqqr: gqmp + zghq
+sntr: 2
+fngz: 2
+llcg: 1
+qldd: bdcr + mlhq
+hqnj: vpss + wsjt
+rzqd: gght * djvg
+qqjf: mfnz * ncsp
+swps: 4
+vzmc: 19
+mdgn: 2
+gwlf: czzj * jzvl
+vwqb: jsbw * tgfj
+lwsp: tzvw * zgfh
+jwvq: 2
+vljr: 19
+jjns: gmqs + hbgd
+zpfz: wzgz * wsmq
+rvqh: 4
+jtnw: 2
+ffwp: 5
+tqjz: vgjd * tlsc
+cntb: 5
+chfb: 2
+mzcf: qzrf + dlgh
+zhrb: 16
+dlfz: lqtm * pnhc
+vvph: 4
+bbdf: 2
+tzqz: 2
+ptpl: zgqn * slmc
+ptgr: 2
+ssdw: hgnl + zfmc
+sfzc: ldwp + cdds
+wtbb: rhqz + lnzl
+pzmn: 2
+dcvd: hhqb * swcw
+ppvc: 8
+nhgz: 6
+rnws: rjtc * dfjr
+nrtr: tblf * rqzl
+cbtd: 1
+prcj: blzj * qnfl
+jdqn: swps * srtj
+nlbs: 10
+tttz: 2
+dzdv: 5
+hnfl: 7
+qzhb: gmsz + njzs
+ncmp: 5
+fnfv: 2
+qmnw: 4
+chtn: 5
+dbpn: 16
+msnn: fprp * jsfc
+nfqb: 2
+dslw: 5
+jcsc: 2
+zzng: mjzc + lvmh
+crwn: gjrq * cgdd
+wnnc: rrtr + lcwh
+thwb: 4
+bssw: fswn * llbf
+wvcw: vljr + htgl
+dsjn: 2
+mrpw: 4
+thtq: jdqn * zwbl
+zcrl: zmcz * fjsz
+swcw: 7
+wjjd: sttd * ngpw
+ltfv: srnz + ccch
+wrbt: tmfh * gwld
+sthr: 10
+dmgs: 2
+qjfj: csht * pvvt
+mvns: 2
+lvgs: 2
+brvq: vcgb + pspq
+gchw: vgcf + njsc
+vbgc: 5
+rhtv: 3
+mzcw: jpzz * hbqd
+zmsn: lrfr * wngf
+swqh: ndcg * rdvh
+rzjq: 3
+fjss: mfjw + rstn
+qvsp: ltdh + vdsm
+bjvw: 3
+ttqn: 4
+fjsz: rtdf + dhdz
+lzdv: dzjq + qhjl
+jttt: 3
+nscv: 7
+tnwz: 13
+qjwl: jbmf - qvrg
+djql: 2
+fmtc: sjbt * wbbv
+bscb: mrnp / mrmm
+mdbg: 3
+ggsl: 6
+zwrn: 2
+lqnc: ndgc * bhfj
+mplh: 3
+qfjp: lwtd / zrff
+qzrf: rrpg * vmvr
+wfmw: sfvc * fcmr
+zctz: 6
+ffvc: 2
+wpds: 13
+vmfd: 2
+ffdv: 2
+lwhv: 2
+scmj: 3
+vhmn: pfwp + dcjs
+zlzp: 5
+scnr: zqjr * pqfp
+tlgz: 6
+pzcv: 11
+jgcb: gfpc * cfwz
+qcbc: zfwm * ffvc
+mwgt: vbqt * qlzb
+cljv: 1
+nvfr: nwss * dmpl
+tgnh: 19
+zghq: sjpq + wfcz
+jwwc: 14
+dtbs: 20
+mhzh: 13
+mbmd: 3
+rnjh: vwmb / lgzs
+tmcj: 2
+qnfl: 3
+wgdc: 2
+vstb: 5
+jjcl: 4
+glht: 5
+djhj: jllb * hbqq
+qjng: 8
+fcnl: 4
+vtzr: fjcc / pwdf
+mbld: qwcd - bqwv
+sgcc: rzjq * zrtr
+gfgz: 2
+lvmq: 13
+lzps: 8
+pbsd: zlzp + rjbc
+ndcg: 2
+rfhn: nnsh + bnph
+twch: 6
+jbqj: 4
+tjdp: 2
+mlfd: 7
+tplh: whcj - trms
+bflz: 2
+qvrm: vzlt - jcfg
+brvf: mtbg + vplr
+jjgl: fvzh - bwbl
+dhtf: csgw + zlgw
+flwn: 6
+vmvr: 3
+wzgn: scjv + zdvl
+ltbc: 2
+hcvz: lhcm * tpfs
+bfhg: 5
+bnlp: llnc * frrd
+ntgv: gmzb * dwvt
+cwcg: 2
+jbfl: 3
+lfsr: 2
+mcmg: hcpr + vtmn
+cgqj: 2
+fbbv: 13
+ntzg: lvgs + hwnm
+sdgf: 1
+dqwn: 2
+mphf: 2
+zlpv: prpd - dphc
+gbtv: ptgr + vstb
+bnwn: 12
+zpcw: 1
+mjzc: lwbq + vvcp
+tpbc: 5
+rmbm: 5
+lhfg: 2
+hvww: qdph + rgnr
+zqvq: 2
+tttm: tvwc + wrst
+zprb: lfsr * jtnf
+qzpn: 3
+jjmv: vhss - bttn
+rfvr: 3
+rpwg: 3
+hlfl: 4
+dsbr: hzvv + nhgc
+lltb: 19
+qvpv: 8
+crph: jjjt * bqjt
+hvmj: 3
+gbhn: 3
+rnft: mcvt * gcns
+vjnf: mplh * hcsf
+trcj: vfsl * dfpc
+dmcn: frcq * mbld
+rwns: grff * whpl
+jnqp: jdgh + rnwp
+sfrp: 3
+mhlv: vbgj * jdfz
+gbgz: 2
+gmqs: jjzv + jgcb
+pbqq: mwgp - tsbp
+vcdg: 5
+fwbj: 6
+ldmv: sgtj * tjrj
+gqgg: 3
+wtlf: 4
+qnvr: lwfm + ctzw
+spwg: lngb + bnrr
+gvnb: 5
+wjsb: 1
+jbpv: 3
+gtjw: 20
+pqvq: 8
+cnlj: 2
+gchz: pwvl + rcrh
+gbnr: 2
+gwqq: 2
+mpdd: 4
+djbw: sdjd * hztf
+rcbb: 19
+hmwt: 2
+sjmz: 5
+vcrq: zvbj * jwwc
+mfjw: qfqv + bssg
+rjdm: 4
+gzhn: 2
+lbqw: 3
+cmwv: 2
+bvsm: mflh * rqps
+tnbr: 5
+srft: 6
+zwff: hltd + hjqb
+twwv: 5
+nnsj: trcj + qnrq
+mvmf: 2
+trnd: 4
+pfwc: bnfv / lzcn
+zdpn: 5
+ndsm: lttm * dhvn
+zthj: 2
+rjnl: 11
+ldjm: twpl + wpms
+hjtv: 5
+gzvn: stsz / vlss
+zzzb: rmbn + thjf
+wsbm: 2
+zfhs: npjg * ztfw
+lfbm: dpqg * gtgv
+gjzp: lvvt * hgmj
+htgl: tgsc - lndq
+wbqz: 2
+msfn: 19
+cdgd: cvzn + tcvr
+stdj: wsbm * gqcz
+zdzj: 16
+vfmq: 7
+spcb: rdtg + gwrh
+wwcs: 4
+lrfr: dmwb + vdgc
+bjzd: 2
+nvld: ttqn * bnwn
+rvmz: svjb - qbzf
+wtdg: phwz + bhfb
+cwgp: 2
+gcrr: 16
+pfwp: fzld + sdfb
+tzwj: 2
+fbgq: 2
+zqzn: dmtr + cnsr
+bmjj: mhjg * grjb
+bbhq: bvzj * zfrq
+mlsc: 2
+vvcp: wnwq + jpjv
+dhjp: 3
+qfzj: lcvf * rjwg
+ztqz: hvjb * ttfw
+sbht: 3
+dbvm: gpdv + sgpw
+tqqh: 5
+srdc: 4
+bvms: dzfr * wtnn
+thzg: 3
+zntq: dzff * mvgt
+dnrn: 2
+smmq: gbzp * gtrr
+wgss: jqtt + lvpf
+rcnm: jwtg + htps
+njrm: lffg * srwc
+gmwl: 2
+gpmz: 3
+tsbp: 3
+mdbr: 2
+sdpp: 4
+rgnr: vrgh * mflt
+hdvz: pzbv * bdvg
+hzmw: bqjn * ptrb
+pjch: 5
+clqj: lsdg * mmcc
+ljhg: njnq + fgbl
+zlbt: 15
+nmgp: 8
+wwmm: 2
+hwqf: fhnr * gwqq
+scts: 5
+czzj: rwbt + nhvw
+dcbm: vrcg + pbqq
+cmql: 17
+lhpr: 2
+qqmc: jwnv + qvpv
+fmzc: dtbc + whgn
+lrrd: rmwh * jzww
+jbbw: 5
+drpc: 4
+hspj: nnmv + nlwf
+ngjc: 2
+hvgq: hqcs * hwpq
+rrwd: cfgq * vbhn
+phft: htdz + rflz
+dhfc: bnrz + pqgz
+nbrt: ldfn + pfsq
+tzds: 17
+wlcc: 3
+hgnl: 7
+swnb: 3
+mnbd: 16
+scvq: 2
+crrl: clgl + qddq
+zmql: 1
+nldh: 5
+cpcn: czbc + thpf
+tzzw: bnhm + bwlh
+jqcj: 15
+hgdl: 4
+jjjt: 2
+whcj: mggf * rgjs
+jvnj: prpb + hpdp
+bbdh: vcrq + wwpw
+rgjs: dmcn + rtzl
+hjfc: lzvh - rlmt
+lssr: fqrv * wqwm
+qzvh: pbpf * wshh
+qvcr: 5
+zqsw: wzrg + trmz
+llzt: 2
+zfcr: 6
+qgbs: vwdj - frjt
+flrq: whcf / zdnj
+sbrn: 2
+bfbn: 4
+lfts: 2
+mzwb: 3
+htps: wwcs + gbnr
+hqvs: njqv * fqmn
+sljl: fhfg * vgwn
+cvhj: qmsm * njcg
+fwqh: vtgm * gbcl
+sbvj: 3
+rlqt: jtqr + gqqr
+ldwp: 9
+mzvs: dsmr + gqgg
+hlwh: 2
+fbsb: bwgm + qhhr
+tzzv: vtsh * mvgc
+nzhs: dddb * thzg
+fcjj: prtl * mnfq
+plvg: 14
+qdph: hmwp * jvnj
+qwnd: 5
+hdlp: 2
+tqzz: zjnw + qrsq
+gjgv: 15
+rgvf: 5
+fjcc: hsrf + dlpm
+tzgb: hzzf * zbrj
+nrrr: 4
+dgnd: cgtp * flrj
+trvb: wvcw * jjgr
+ggcc: 2
+qqbf: dfzz * bqbt
+vpqp: cqfs + sfzc
+szjv: tttz * bmqp
+mrsv: ndhs * dhnp
+pbbp: znsz + fpgw
+nvpf: 2
+dcjm: bfbn * vgmt
+jtrs: lrdv * jjgl
+bhlh: 2
+zmth: 5
+bgwv: 2
+fmwf: 18
+zfdw: 5
+lshr: bssw + fnrq
+tgfj: lndz * bprw
+sgbt: 5
+dfpc: 2
+ghcc: 2
+hsvn: sptq * qjwl
+hqhm: wtbb * shzb
+zlmz: 11
+znvd: btrb + tsvr
+mrbj: rgqs + hmmh
+dcrf: tnhf * qnvr
+cwbn: 12
+dfjr: hrdp - fpbf
+dhtj: 6
+prtl: mdmv * mwsp
+cfdf: 3
+dgtq: sbvj * hwqr
+rvfw: 2
+zcvc: jqcj * pbhs
+ppvr: vcqb * slpm
+gfvf: 2
+czgm: 3
+zbrj: mrsv / lwwb
+ldgn: 4
+vbrh: tltn + fmwf
+zhpb: lchj + vprg
+rsdd: bbtr / fnfv
+rjdl: rjqm + rmzr
+tmfb: 2
+ltzc: mhws * bmqt
+bcmt: 2
+clvh: ldlr * cwqv
+rzml: wpsm + czzm
+shql: rlqt + dzjd
+qgwz: 1
+tvsv: 2
+hblb: tqnd * dmhj
+qqvm: fvfj * lmrn
+sjhh: 2
+drfv: 3
+jtmh: hcgs + lrnh
+blsf: 13
+hzls: qnst * glqg
+ltgh: hwsb + wcfh
+ctbm: brvf * stzh
+bnhm: 9
+hbqd: wbvm * sptr
+jgnr: mrpw * sztf
+bbdm: 3
+bgbh: 16
+gczc: rswg * nhpv
+tlsq: hwqf * brws
+qhzz: 3
+dztc: cdmg * nssj
+zwqj: 5
+hcnp: 8
+zjtq: znnf + jdrw
+wwjr: nrzt * dtcr
+qqvl: 3
+pjnl: bpwz * fhcv
+hvdr: 5
+jvfm: 5
+dmzl: phwf / tzwj
+lpvq: 3
+zzpp: jmhn - mnrt
+lhlp: hjmn * nfqb
+bwdn: 2
+wzrg: 2
+jnsg: 3
+dwhp: 2
+sglv: lzcp * qpqh
+nbfl: 5
+wcfh: lzrz + bsdh
+zzsz: 5
+fqrv: 2
+hbjt: zwgp * hjhj
+ntln: 13
+tdnw: 11
+jhbj: srdc * hjfc
+mzzd: zlqv * rchm
+ttdt: chmd + qqjh
+cgcm: 6
+ngwj: 3
+swnv: 3
+jnsf: nntf + dtfj
+tsvc: mzzd + npbc
+qzbg: 3
+cghs: 7
+qwcd: lnhh / qsll
+tltn: bmhn + qbsh
+pqgz: 4
+rwrh: 2
+zvmf: nltl * lvzt
+qjzc: 3
+gvss: rlrr + hmmt
+lmvz: 3
+rftg: 13
+wpdr: 3
+qbqs: 1
+qfhv: 3
+pvqj: ghcc * gjgv
+dbww: 2
+prqz: 2
+grjb: ptff + wrwt
+rrtv: 10
+ffgz: zzzb * nldh
+bttn: 3
+rttm: 3
+dzjd: gzhn + nzbc
+qwfj: pvtr * dzdv
+btbb: rmpd + lclv
+wgzn: 5
+fzld: nvvv / dzcg
+jlgn: gjgm / rjrf
+pnbg: 7
+lrql: dpzc / mrzq
+cfjg: glfw * thrc
+frgr: tmzz * bpmc
+vpll: 2
+pgzh: 2
+qhnp: 13
+htzb: gdsd * plfn
+dczv: fwhd * sqtt
+pngn: csvm * vqdd
+mdzr: 2
+npqp: dsrz * bqlh
+bnfw: 3
+wnmh: 2
+wssv: qbhr / vvvs
+nnjm: 3
+vcfn: 13
+rcfm: tftj - jltt
+dhvn: jqbh + nnqn
+gdzl: lwhv * bzps
+lcpf: zqzw / clrl
+bhrd: qltz * nlvv
+jfpn: 1
+dmcl: tsjb * vrzd
+czrb: bncf * hgdl
+hlzb: hqvs + qmcr
+cdds: stpv * gwnz
+bpmc: ngwj + fzdc
+dctw: nwmp - mfjq
+mmcc: 5
+vsrf: zfbf * rnsn
+tplb: mgnw * vpqz
+vfzp: vvlw * thdm
+jzww: 2
+dlvh: zqsw + gbvl
+whfz: dhfc / hdlp
+llql: jlgn + bjdn
+wngf: 2
+hrzb: sglf + gndh
+rqps: 5
+htfq: 2
+jnsh: djfz * fwzc
+qdmt: 3
+rpzm: 3
+vqcr: whsj * mfqp
+jzgp: 3
+gngd: 13
+fjnt: 1
+bcfp: jrhp / sdsb
+hmmh: 5
+fldp: 4
+lcwh: hbtg * hjfs
+shzg: hnst + hvdj
+dlnf: vnsp * mbjm
+jjmj: dhqz - znbn
+mlhh: 3
+mrmm: 5
+nqsv: 5
+sbzz: qlpp - qpzb
+gmhw: hjbf * hmnh
+nrzt: 3
+fpbf: 1
+tsvr: pflr - wssv
+tpdj: 5
+fvlh: 11
+bsnt: rsqv * ggvb
+zfwm: qdqr - bbbm
+jzhp: 8
+qlzb: dbbw + mdhm
+tqwn: ftft + dlbt
+vgvp: fmtc + lddb
+dtcr: dfpv / hwgh
+dbjl: 2
+szfd: 6
+vzfl: ftpn * vcrl
+rdtg: nlps * jczp
+vldd: sbht * hqsf
+jjqs: nmwc + znwp
+slmc: 5
+lnzs: nslf * qsdz
+wfft: fpnf + bbwp
+qczq: cgrs + wzzd
+bssz: zrvc * sfrp
+fvfc: 2
+fdhj: mghf * dnqh
+hwrj: mgfn + gtqm
+lnpz: frst + hgvq
+pfvv: pmzs + qjzc
+gsqp: 2
+tqhm: 12
+qhhc: jtwc * mpbs
+pjss: sncv - dsbr
+tjjh: dmnl + zqzn
+wtzc: 3
+mdhb: lmjh * jmll
+ztvl: 2
+vntw: pbhh - nrwg
+zdjn: lvmq + lfph
+vpjv: sztg * lnvq
+tnzz: 2
+bmqt: 4
+tlhq: lpjz * tmqv
+lpzl: qfjp + thwb
+ghlb: vjln * lstf
+wjrb: 3
+wbcn: wfts - tfvm
+jswd: 5
+vdjc: mzwb * wlnf
+tlgw: 10
+csht: dcvp * ftwr
+zflg: trnd + gpsj
+wsmq: 3
+vcrs: 3
